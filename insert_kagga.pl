@@ -16,7 +16,7 @@ $dbh->do('SET NAMES utf8');
 
 $sth11=$dbh->prepare("CREATE TABLE newkagga (
 	num int(4) NOT NULL,
-	kagga text) ENGINE=MyISAM");
+	kagga text) ENGINE=MyISAM  character set utf8 collate utf8_general_ci");
 $sth11->execute();
 $sth11->finish(); 
 

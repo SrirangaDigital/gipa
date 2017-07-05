@@ -21,7 +21,7 @@ sponsor varchar(4000),
 sp_name varchar(3000), 
 sp_details varchar(5000), 
 subject varchar(5000), 
-entryid int(6) auto_increment, primary key(entryid)) ENGINE=MyISAM");
+entryid int(6) auto_increment, primary key(entryid)) ENGINE=MyISAM  character set utf8 collate utf8_general_ci");
 $sth11->execute();
 $sth11->finish(); 
 
