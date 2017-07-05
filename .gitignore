@@ -1,0 +1,5 @@
+Volumes/
+cache/
+cgi/
+*.sql
+
