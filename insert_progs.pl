@@ -9,7 +9,7 @@ use DBI();
 
 open(IN,"gipa.xml") or die "can't open gipa.xml\n";
 
-my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","Sriranga\@\#\$\!");
+my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 $dbh->{'mysql_enable_utf8'} = 1;
 $dbh->do('SET NAMES utf8');
 
@@ -93,7 +93,7 @@ sub insert_article()
 	$sp_details =~ s/'/\\'/g;
 	$subject =~ s/'/\\'/g;
 	
-	$sth1=$dbh->prepare("insert into progs_list values('$date','$time','$sponsor','$sp_name','$sp_details','$subject','')");
+	$sth1=$dbh->prepare("insert into progs_list values('$date','$time','$sponsor','$sp_name','$sp_details','$subject',0)");
 	
 	$sth1->execute();
 	$sth1->finish();
