@@ -22,6 +22,7 @@ if(!(isset($_SESSION['next_date'])))
 <title>Gokhale Institute of Public Affairs</title>
 <link href="php/style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="php/style/indexstyle.css" media="screen" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="php/images/favicon.ico">
 </head>
 
 <body>

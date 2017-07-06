@@ -9,6 +9,7 @@ session_start();
 <title>Gokhale Institute of Public Affairs</title>
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="style/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="images/favicon.ico">
 </head>
 
 <body>
