@@ -3,17 +3,13 @@ session_start();
 $cur_date = date("Y-m-d");
 
 include("php/connect.php");
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 
 if(!(isset($_SESSION['next_date'])))
 {
 	$query5 = "select date from progs_list where date>='$cur_date' limit 1";
-	$result5 = mysql_query($query5);
-	$row5=mysql_fetch_assoc($result5);
-	$next_date=$row5['date'];
-	
+	$result5 = $mysqli->query($query5);
+	$row5 = $result5->fetch_assoc();
+	$next_date = $row5['date'];
 	$_SESSION['next_date'] = $next_date;
 }
 
@@ -66,8 +62,8 @@ if(!(isset($_SESSION['next_date'])))
 $kan_days = array('ಭಾನುವಾರ', 'ಸೋಮವಾರ', 'ಮಂಗಳವಾರ', 'ಬುಧವಾರ', 'ಗುರುವಾರ', 'ಶುಕ್ರವಾರ', 'ಶನಿವಾರ');
 
 $query4 = "select * from progs_list where date='$cur_date' limit 1";
-$result4 = mysql_query($query4);
-$num_rows4 = mysql_num_rows($result4);
+$result4 = $mysqli->query($query4);
+$num_rows4 = $result4->num_rows;
 
 if($num_rows4)
 {
@@ -75,13 +71,13 @@ if($num_rows4)
 
 	for($i4=0;$i4<$num_rows4;$i4++)
 	{
-		$row4=mysql_fetch_assoc($result4);
-		$date=$row4['date'];
-		$time=$row4['time'];
-		$sponsor=$row4['sponsor'];
-		$sp_name=$row4['sp_name'];
-		$sp_details=$row4['sp_details'];
-		$subject=$row4['subject'];
+		$row4 = $result4->fetch_assoc();
+		$date = $row4['date'];
+		$time = $row4['time'];
+		$sponsor = $row4['sponsor'];
+		$sp_name = $row4['sp_name'];
+		$sp_details = $row4['sp_details'];
+		$subject = $row4['subject'];
 		
 		$out = preg_split('/-/', $date);
 		

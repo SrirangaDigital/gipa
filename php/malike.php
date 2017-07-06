@@ -40,21 +40,17 @@ session_start();
 					<?php
 						include("connect.php");
 
-						$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-						$rs = mysql_select_db($database,$db) or die("No Database");
-						
 						$query = "select * from track order by title";
-						$result = mysql_query($query);
-						$num_rows = mysql_num_rows($result);
-
-						$num_rows = mysql_num_rows($result);
+						$result = $mysqli->query($query);
+						$num_rows = $result->num_rows;
+						
 						if($num_rows)
 						{
 							for($i=1;$i<=$num_rows;$i++)
 							{
-								$row=mysql_fetch_assoc($result);
-								$title=$row['title'];
-								$artid=$row['aid'];
+								$row = $result->fetch_assoc();
+								$title = $row['title'];
+								$artid = $row['aid'];
 								$dur = $row['duration'];
 								$back = '';
 								$list = artistlist($artid,$back);
@@ -64,16 +60,17 @@ session_start();
 						
 						function artistlist($artid,$back)
 						{
+							include("connect.php");
 							$dummy = 0;
 							$total = substr_count($artid, ',');
 							$a1 = explode(",", $artid);
 				
 							foreach($a1 as $a1)
 							{
-								$query1="SELECT * FROM artist WHERE aid='$a1'";
-								$result1= mysql_query($query1);
-								$row2=mysql_fetch_assoc($result1);
-								$name=$row2['artistname'];
+								$query1 = "SELECT * FROM artist WHERE aid='$a1'";
+								$result1= $mysqli->query($query1);
+								$row2 = $result1->fetch_assoc();
+								$name = $row2['artistname'];
 								if($dummy < $total)
 								{
 									$back = "$back" . "<span class=\"auspank\"><a href=\"artistart.php?var=$name\">$name</a>; </span>";

@@ -42,18 +42,16 @@ session_start();
 					<ul>
 					<?php
 						include("connect.php");
-						$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-						$rs = mysql_select_db($database,$db) or die("No Database");
 						$letter=$_GET['id'];
 						$query = "select * from articledetails where aid=$letter order by title, volume, issue, page";
-						$result = mysql_query($query);
+						$result = $mysqli->query($query);
 
-						$num_rows = mysql_num_rows($result);
+						$num_rows = $result->num_rows;
 						if($num_rows)
 						{
 							for($i=1;$i<=$num_rows;$i++)
 							{	
-								$row=mysql_fetch_assoc($result);
+								$row = $result->fetch_assoc();
 								$title = $row['title'];
 								$year = $row['year'];
 								$month = $row['month'];

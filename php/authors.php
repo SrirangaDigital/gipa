@@ -67,18 +67,16 @@ session_start();
 					<ul>
 					<?php
 						include("connect.php");
-						$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-						$rs = mysql_select_db($database,$db) or die("No Database");
 						$letter=$_GET['letter'];
 						$query = "select * from authdetails where authname like '$letter%' order by authname";
-						$result = mysql_query($query);
+						$result = $mysqli->query($query);
 
-						$num_rows = mysql_num_rows($result);
+						$num_rows = $result->num_rows;
 						if($num_rows)
 						{
 							for($i=1;$i<=$num_rows;$i++)
 							{
-								$row=mysql_fetch_assoc($result);
+								$row = $result->fetch_assoc();
 								$authname = $row['authname'];
 								$ini1 = $row['ini1'];
 								$ini2 = $row['ini2'];

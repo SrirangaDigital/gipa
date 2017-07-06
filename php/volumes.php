@@ -42,18 +42,15 @@ session_start();
 							<?php
 									$cnt = 0;
 									include("connect.php");
-									$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-									$rs = mysql_select_db($database,$db) or die("No Database");
 									$query = "select distinct year from articledetails";
-									$result = mysql_query($query);
-									$num_rows = mysql_num_rows($result);
+									$result = $mysqli->query($query);
+									$num_rows = $result->num_rows;
 									echo ("<tr>\n\t\t\t\t\t\t\t");
-								//	echo ("<td><a href=\"#\">1952</a></td>");
 									
 									for($i=1;$i<=$num_rows;$i++)
 									{	
 										$cnt= $cnt+1;
-										$row=mysql_fetch_assoc($result);
+										$row = $result->fetch_assoc();
 										$year = $row['year'];
 										echo ("<td><a href=\"mon.php?year=$year\">$year</a></td>\n\t\t\t\t\t\t\t");
 										if($cnt==1)

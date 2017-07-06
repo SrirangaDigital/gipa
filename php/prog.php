@@ -35,25 +35,22 @@ session_start();
 <?php
 
 include("connect.php");
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $kan_days = array('ಭಾನುವಾರ', 'ಸೋಮವಾರ', 'ಮಂಗಳವಾರ', 'ಬುಧವಾರ', 'ಗುರುವಾರ', 'ಶುಕ್ರವಾರ', 'ಶನಿವಾರ');
 
 $query4 = "select * from progs_list order by date";
-$result4 = mysql_query($query4);
-$num_rows4 = mysql_num_rows($result4);
+$result4 = $mysqli->query($query4);
+$num_rows4 = $result4->num_rows;
 if($num_rows4)
 {
 	for($i4=0;$i4<$num_rows4;$i4++)
 	{
-		$row4=mysql_fetch_assoc($result4);
-		$date=$row4['date'];
-		$time=$row4['time'];
-		$sponsor=$row4['sponsor'];
-		$sp_name=$row4['sp_name'];
-		$sp_details=$row4['sp_details'];
-		$subject=$row4['subject'];
+		$row4 = $result4->fetch_assoc();
+		$date = $row4['date'];
+		$time = $row4['time'];
+		$sponsor = $row4['sponsor'];
+		$sp_name = $row4['sp_name'];
+		$sp_details = $row4['sp_details'];
+		$subject = $row4['subject'];
 		
 		$out = preg_split('/-/', $date);
 		
@@ -84,13 +81,17 @@ if($num_rows4)
 		{
 			for($j=0;$j<$num;$j++)
 			{
-				if($out_details != '')
+				if(isset($out_details[$j]) && isset($out_name[$j]))
 				{
-					echo "<span class=\"special\">".$out_name[$j]. "</span> (" . $out_details[$j] . ")<br />\n";
+					echo "<span class=\"special\">". $out_name[$j] . "</span> (" . $out_details[$j] . ")<br />\n";
 				}
-				else
+				elseif(!isset($out_details[$j]) && isset($out_name[$j]))
 				{
 					echo "<span class=\"special\">".$out_name[$j]. "</span><br />\n";
+				}
+				elseif(isset($out_details[$j]) && !isset($out_name[$j]))
+				{
+					echo "<span class=\"special\">". $out_name[$j] . "</span> (" . $out_details[$j] . ")<br />\n";
 				}				
 			}
 		}

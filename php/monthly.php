@@ -50,21 +50,18 @@ session_start();
 					<?php
 						include("connect.php");
 
-						$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-						$rs = mysql_select_db($database,$db) or die("No Database");
-
 						$ye=$_GET['ye'];
 						$mo=$_GET['mo'];
 						
 						$query = "select * from articledetails where year=$ye AND month='$mo' order by page";
-						$result = mysql_query($query);
+						$result = $mysqli->query($query);
 
-						$num_rows = mysql_num_rows($result);
+						$num_rows = $result->num_rows;
 						if($num_rows)
 						{
 							for($i=1;$i<=$num_rows;$i++)
 							{	
-								$row=mysql_fetch_assoc($result);
+								$row = $result->fetch_assoc();
 								$title = $row['title'];
 								$year = $row['year'];
 								$month = $row['month'];
@@ -75,8 +72,8 @@ session_start();
 								$mm = "$volume"."_"."$issue";
 								
 								$query1 = "select * from authdetails where aid = $aid";
-								$result1 = mysql_query($query1);
-								$row1=mysql_fetch_assoc($result1);
+								$result1 = $mysqli->query($query1);
+								$row1 = $result1->fetch_assoc();
 								$authname = $row1['authname'];
 								$ini1 = $row1['ini1'];
 								$ini2 = $row1['ini2'];

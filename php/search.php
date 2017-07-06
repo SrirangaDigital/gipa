@@ -67,16 +67,14 @@ session_start();
 								<option value=""></option>
 								<?php
 									include("connect.php");
-									$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-									$rs = mysql_select_db($database,$db) or die("No Database");
 									$query = "select distinct year from articledetails order by year";
-									$result = mysql_query($query);
-									$num_rows = mysql_num_rows($result);
+									$result = $mysqli->query($query);
+									$num_rows = $result->num_rows;
 									if($num_rows)
 									{
 										for($i=1;$i<=$num_rows;$i++)
 										{
-											$row=mysql_fetch_assoc($result);
+											$row = $result->fetch_assoc();
 											$year = $row['year'];
 											echo("<option value=\"$year\">$year</option>");
 										}
@@ -88,13 +86,13 @@ session_start();
 								<option value=""></option>
 								<?php
 									
-									$result = mysql_query($query);
-									$num_rows = mysql_num_rows($result);
+									$result = $mysqli->query($query);
+									$num_rows = $result->num_rows;
 									if($num_rows)
 									{
 										for($i=1;$i<=$num_rows;$i++)
 										{
-											$row=mysql_fetch_assoc($result);
+											$row = $result->fetch_assoc();
 											$year = $row['year'];
 											echo("<option value=\"$year\">$year</option>");
 										}

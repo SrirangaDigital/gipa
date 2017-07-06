@@ -37,8 +37,6 @@ session_start();
 				<div class="limitdata">
 					<?php
 						include("connect.php");
-						$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-						$rs = mysql_select_db($database,$db) or die("No Database");
 						$author=$_POST['author'];
 						$text=$_POST['text'];
 						$title=$_POST['title'];
@@ -114,8 +112,8 @@ session_start();
 										AS tb4 WHERE year between $year1 and $year2 ORDER BY volume, issue, page, cur_page";
 						}
 
-						$result = mysql_query($query,$db);
-						$num_results = mysql_num_rows($result);
+						$result = $mysqli->query($query);
+						$num_results = $result->num_rows;
 
 						if ($num_results > 0)
 						{
@@ -127,7 +125,7 @@ session_start();
 						{
 							for($i=1;$i<=$num_results;$i++)
 							{	
-								$row=mysql_fetch_assoc($result);
+								$row = $result->fetch_assoc();
 								$title = $row['title'];
 								$year = $row['year'];
 								$month = $row['month'];
@@ -143,8 +141,8 @@ session_start();
 								}
 								
 								$query1 = "select * from authdetails where aid = $aid";
-								$result1 = mysql_query($query1);
-								$row1=mysql_fetch_assoc($result1);
+								$result1 = $mysqli->query($query1);
+								$row1 = $result1->fetch_assoc();
 								$authname = $row1['authname'];
 								$ini1 = $row1['ini1'];
 								$ini2 = $row1['ini2'];
@@ -189,7 +187,6 @@ session_start();
 										echo "<span class=\"bld\">&nbsp;<a href=\"../Volumes/$year/$month/gipa-$mm.djvu?djvuopts&page=$cur_page&zoom=page&find=$text2\" target=\"_blank\"\">".intval($cur_page)."</a>&nbsp;</span>";
 										$id = $titleid;
 									}
-									$cnt= $cnt+1;
 								}
 								else
 								{
