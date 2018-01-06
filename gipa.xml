@@ -56,7 +56,7 @@
 		<sponsor>M/s Bangalore Tool Room</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್ ಅವರಿಂದ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಅಷ್ಟಾವಧಾನ</subject>
 	</entry>
@@ -66,7 +66,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -76,7 +76,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -86,7 +86,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-1)</subject>	
 	</entry>
@@ -96,7 +96,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-1)</subject>	
 	</entry>
@@ -555,7 +555,7 @@
 	<entry>
 		<date>2012-2-28</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ||ಆರ್. ಪಿ. ಜೋಷಿ</name>
 			<details>ವೈದ್ಯಾಧಿಕಾರಿಗಳು, ಕೇಂದ್ರ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಯೋಜನೆ, ಬೆಂಗಳೂರು</details>
@@ -675,7 +675,7 @@
 	<entry>
 		<date>2012-3-12</date>
 		<time>ಸಂಜೆ 6.30</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Dr. Vishwa Murthy</name>
 			<details>Associate Professor of Commerece, Dept. of Commerce &amp; Management, Govt. R. C. College, Bangalore</details>
@@ -718,7 +718,7 @@
 		<sponsor>ಡಿ.ವಿ.ಜಿ. ಅವರ 125 ನೇ ಜನ್ಮದಿನೋತ್ಸವ ವರ್ಷ ಆಚರಣೆ: ಸಮಾರೋಪ ಸರಣಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಡಿ.ವಿ.ಜಿ. ಅವರ `ಶ್ರೀಕೃಷ್ಣಪರೀಕ್ಷಣಂ'</subject>	
 	</entry>
@@ -757,7 +757,7 @@
 	<entry>
 		<date>2012-3-19</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ|| ಆರ್. ಪಿ. ಜೊಷಿ</name>
 			<details>ವೈದ್ಯಾಧಿಕಾರಿಗಳು, ಕೇದ್ರ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಯೋಜನೆ, ಬೆಂಗಳೂರು</details>
@@ -770,7 +770,7 @@
 		<sponsor>ಶ್ರೀ ಶ್ರೀಶ ಕಾರಂತ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಮಹಾಕವಿ ಕ್ಷೇಮೆಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -780,7 +780,7 @@
 		<sponsor>ಶ್ರೀ ಶ್ರೀಶ ಕಾರಂತ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಮಹಾಕವಿ ಕ್ಷೇಮೆಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -790,7 +790,7 @@
 		<sponsor>ಶ್ರೀ ಶ್ರೀಶ ಕಾರಂತ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಮಹಾಕವಿ ಕ್ಷೇಮೆಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -800,7 +800,7 @@
 		<sponsor>ಶ್ರೀ ಶ್ರೀಶ ಕಾರಂತ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಮಹಾಕವಿ ಕ್ಷೇಮೆಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -810,7 +810,7 @@
 		<sponsor>ಶ್ರೀ ಶ್ರೀಶ ಕಾರಂತ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಮಹಾಕವಿ ಕ್ಷೇಮೆಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -820,7 +820,7 @@
 		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -830,7 +830,7 @@
 		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -840,7 +840,7 @@
 		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -850,7 +850,7 @@
 		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -860,7 +860,7 @@
 		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -880,7 +880,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ವೆಂಕಾಟಾಧ್ವರಿಯ 'ವಿಶ್ವಗುಣಾದರ್ಶಚಂಪೂ'</subject>	
 	</entry>
@@ -890,7 +890,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ವೆಂಕಾಟಾಧ್ವರಿಯ 'ವಿಶ್ವಗುಣಾದರ್ಶಚಂಪೂ'</subject>	
 	</entry>
@@ -900,7 +900,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ವೆಂಕಾಟಾಧ್ವರಿಯ 'ವಿಶ್ವಗುಣಾದರ್ಶಚಂಪೂ'</subject>	
 	</entry>
@@ -1010,7 +1010,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಜಿ. ಆರ್. ವಿಜಯಕುಮಾರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1020,7 +1020,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಜಿ. ಆರ್. ವಿಜಯಕುಮಾರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1030,7 +1030,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಜಿ. ಆರ್. ವಿಜಯಕುಮಾರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1040,7 +1040,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಜಿ. ಆರ್. ವಿಜಯಕುಮಾರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1050,17 +1050,17 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಜಿ. ಆರ್. ವಿಜಯಕುಮಾರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
 	<entry>
 		<date>2012-4-21</date>
 		<time>ಸಂಜೆ 6.00-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಚಿ|| ಡಿ.ಕೆ.ಜಸ್ವಂತ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಭಾವಗೀತೆಗಳ ಗಾಯನ</subject>	
 	</entry>
@@ -1070,7 +1070,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-2)</subject>	
 	</entry>
@@ -1080,7 +1080,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-2)</subject>	
 	</entry>
@@ -1090,7 +1090,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-2)</subject>	
 	</entry>
@@ -1107,7 +1107,7 @@
 	<entry>
 		<date>2012-4-28</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ|| ಆರ್.ಪಿ. ಜೋಷಿ</name>
 			<details>ವೈದ್ಯಾಧಿಕಾರಿಗಳು, ಕೇದ್ರ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಯೋಜನೆ, ಬೆಂಗಳೂರು</details>
@@ -1140,7 +1140,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1150,7 +1150,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1160,7 +1160,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1170,7 +1170,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1180,7 +1180,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1207,7 +1207,7 @@
 	<entry>
 		<date>2012-5-9</date>
 		<time>ಸಂಜೆ 6.30</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Dr. N. Santosh Hegde</name>
 			<details>Former Juge, Superme Court of India; Former Lokayukta, Karnataka</details>
@@ -1217,7 +1217,7 @@
 	<entry>
 		<date>2012-5-10</date>
 		<time>ಸಂಜೆ 6.30</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Smt. P. Lalitha</name>
 			<details>Chartered Accountant</details>
@@ -1240,7 +1240,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-3)</subject>	
 	</entry>
@@ -1250,7 +1250,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-3)</subject>	
 	</entry>
@@ -1260,7 +1260,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-3)</subject>	
 	</entry>
@@ -1270,7 +1270,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-3)</subject>	
 	</entry>
@@ -1280,7 +1280,7 @@
 		<sponsor>ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಹಿತೈಷಿಗಳು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಪಾಶ್ಚಾತ್ಯ ಮಹಾಕಾವ್ಯ ಪರಿಚಯ (ಸರಣಿ-3)</subject>	
 	</entry>
@@ -1368,7 +1368,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋ.ಎನ್. ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಕುಮಾರಿ ಎಸ್. ಹಿರಣ್ಮಯಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಭಕ್ತಿಗೀತೆಗಳ ಗಾಯನ</subject>	
 	</entry>
@@ -1408,7 +1408,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎನ್.ಎಸ್. ಕೃಷ್ಣಮೂರ್ತಿ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿಂದ ಭಾಗ)</subject>	
 	</entry>
@@ -1418,7 +1418,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎನ್.ಎಸ್. ಕೃಷ್ಣಮೂರ್ತಿ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿಂದ ಭಾಗ)</subject>	
 	</entry>
@@ -1428,7 +1428,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎನ್.ಎಸ್. ಕೃಷ್ಣಮೂರ್ತಿ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿಂದ ಭಾಗ)</subject>	
 	</entry>
@@ -1438,7 +1438,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎನ್.ಎಸ್. ಕೃಷ್ಣಮೂರ್ತಿ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿಂದ ಭಾಗ)</subject>	
 	</entry>
@@ -1448,7 +1448,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎನ್.ಎಸ್. ಕೃಷ್ಣಮೂರ್ತಿ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸನ `ರಘುವಂಶ' (ಮುದುವರಿಂದ ಭಾಗ)</subject>	
 	</entry>
@@ -1456,10 +1456,7 @@
 		<date>2012-6-6</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರದಲ್ಲಿ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ವಿಷಯ: ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜನ್ಮದಿನೋತ್ಸವ ಕಾರ್ಯಕ್ರಮ</subject>	
 	</entry>
 	<entry>
@@ -1482,7 +1479,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಮತ್ತು ಶ್ರೀ ಶ್ರೀಶ ತಿರುಮಲೆ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಭಾರತದ ಕ್ಷಾತ್ರಪರಂಪರೆ (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1492,7 +1489,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಮತ್ತು ಶ್ರೀ ಶ್ರೀಶ ತಿರುಮಲೆ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಭಾರತದ ಕ್ಷಾತ್ರಪರಂಪರೆ (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1502,7 +1499,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಮತ್ತು ಶ್ರೀ ಶ್ರೀಶ ತಿರುಮಲೆ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಭಾರತದ ಕ್ಷಾತ್ರಪರಂಪರೆ (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1512,7 +1509,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಮತ್ತು ಶ್ರೀ ಶ್ರೀಶ ತಿರುಮಲೆ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಭಾರತದ ಕ್ಷಾತ್ರಪರಂಪರೆ (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1522,7 +1519,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಮತ್ತು ಶ್ರೀ ಶ್ರೀಶ ತಿರುಮಲೆ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಭಾರತದ ಕ್ಷಾತ್ರಪರಂಪರೆ (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1592,7 +1589,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಸ್. ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1602,7 +1599,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಸ್. ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1612,7 +1609,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಸ್. ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1622,7 +1619,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಸ್. ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1632,7 +1629,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಸ್. ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಷಯ: ಕಾಳಿದಾಸ `ರಘುವಂಶ' (ಮುದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1649,7 +1646,7 @@
 	<entry>
 		<date>2012-7-4</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>	 	   					
+		<sponsor />	 	   					
 		<speaker>
 			<name>ಶ್ರೀ ಎಂ. ನರಸಿಂಹಮೂರ್ತಿ</name>
 			<details>ಲೇಖಕರು; ಸಾಕ್ಷ್ಯಚಿತ್ರ ನಿರ್ದೇಶಕರು; ಸಂಶೋಧನಕಾರರು</details>
@@ -1659,7 +1656,7 @@
 	<entry>
 		<date>2012-7-5</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>	 	   					
+		<sponsor />	 	   					
 		<speaker>
 			<name>ಶ್ರೀ ಎಂ. ನರಸಿಂಹಮೂರ್ತಿ</name>
 			<details>ಲೇಖಕರು; ಸಾಕ್ಷ್ಯಚಿತ್ರ ನಿರ್ದೇಶಕರು; ಸಂಶೋಧನಕಾರರು</details>
@@ -1702,7 +1699,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -1712,7 +1709,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -1722,7 +1719,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -1732,7 +1729,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -1742,7 +1739,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -1759,7 +1756,7 @@
 	<entry>
 		<date>2012-7-16</date>
 		<time>ಸಂಜೆ  6.30</time>
-		<sponsor></sponsor>	 	   					
+		<sponsor />	 	   					
 		<speaker>
 			<name>Dr. Sibichen K. Mathew</name>
 			<details>Adviser, Telecom Regulatory Authority of India</details>
@@ -1812,11 +1809,11 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಹಾರ್ಮೋನಿಯಂ: ಪಂಡಿತ್ ಡಾ||ರವೀಂದ್ರ ಕಾಟೋಟಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಸಿ.ಎಸ್. ಚಂದ್ರಶೇಖರ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ - ಜುಗಲ್ ಬಂದಿ</subject>	
 	</entry>
@@ -1826,7 +1823,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1836,7 +1833,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1846,7 +1843,7 @@
 		<sponsor>ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತ ಕಲಾಕಾರ ಮಂಡಳಿ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ವಿಶಾಲ್ ಹೆಗಡೆ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -1946,11 +1943,11 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಗೌರೀಶ ಕಾಯ್ಕಿಣಿ ಜನ್ಮಶತಾಬ್ದಿಸ್ಮರಣೆ</sponsor>
 		<speaker>
 			<name>ಸ್ಮರಣಾಂಜಲಿ:ಶ್ರೀ ಜಯಂತ್ ಕಾಯ್ಕಿಣಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<speaker>
 			<name>ಗಾಯನ:ವಿದುಷಿ ಸ್ಮಿತಾ ಬೆಳ್ಳೂರು</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಸ್ಮರಣೆ</subject>	
 	</entry>
@@ -1970,7 +1967,7 @@
 		<sponsor>ಶ್ರೀಕೃಷ್ಣಜನ್ಮಾಷ್ಟಮಿ ಸಂದರ್ಭದಲ್ಲಿ ಶ್ರೀ ಆರ್. ವ್ಯಾಸರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ದಿವಂಗತ ಶ್ರೀ ಆರ್.ವಿ.ಪ್ರಭಾಕರರಾವ್ ಅವರ ಪತ್ನಿ ಶ್ರೀಮತಿ ಇಂದಿರಾದೇವಿ ಅವರು ನೀಡಿರುವ ದತ್ತಿ ಮತ್ತು ಶ್ರೀಪ್ರಕಾಶ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಗಾನಶ್ರೀ ಶ್ರೀನಿವಾಸಲು</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಮತ್ತು ಭಕ್ತಿಗೀತೆಗಳ ಗಾಯನ</subject>	
 	</entry>
@@ -1980,7 +1977,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -1990,7 +1987,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -2000,7 +1997,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -2010,7 +2007,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -2020,7 +2017,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -2030,7 +2027,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -2100,7 +2097,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಂ.ನರಸಿಂಹಮೂರ್ತಿ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಯೋಗವಾಸಿಷ್ಠ</subject>	
 	</entry>
@@ -2110,7 +2107,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಂ.ನರಸಿಂಹಮೂರ್ತಿ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಯೋಗವಾಸಿಷ್ಠ</subject>	
 	</entry>
@@ -2120,7 +2117,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಎಂ.ನರಸಿಂಹಮೂರ್ತಿ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಯೋಗವಾಸಿಷ್ಠ</subject>	
 	</entry>
@@ -2130,7 +2127,7 @@
 		<sponsor>ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತ ಕಾಲಾಕಾರ ಮಂಡಳಿ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಶ್ರೀಕಾಶೀನಾಥ ಪತ್ತಾರ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -2160,11 +2157,11 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಮತ್ತು ಶ್ರೀ ಪತ್ತಿ ಶ್ರೀಧರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಪತ್ತಿ ಶ್ರೀ ಆದಿನಾರಣಯ್ಯ ಮತ್ತು ಶ್ರೀಮತಿ ರಾಮಲಕ್ಷ್ಮಮ್ಮ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಾಚನ:ಗಮಕ ವಿದ್ವಾನ್ ಹೊಸಹಳ್ಳಿ ಕೇಶವವೂರ್ತಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<speaker>
 			<name>ವ್ಯಾಖ್ಯಾನ:ವಿದ್ವಾನ್ ಮತ್ತೂರು ಮಾರ್ಕಂಡೇಯ ಅವಧಾನಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಕುಮಾರವ್ಯಾಸಭಾರತ `ಉದ್ಯೋಗಪರ್ವ'</subject>	
 	</entry>
@@ -2174,11 +2171,11 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಮತ್ತು ಶ್ರೀ ಪತ್ತಿ ಶ್ರೀಧರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಪತ್ತಿ ಶ್ರೀ ಆದಿನಾರಣಯ್ಯ ಮತ್ತು ಶ್ರೀಮತಿ ರಾಮಲಕ್ಷ್ಮಮ್ಮ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಾಚನ:ಗಮಕ ವಿದ್ವಾನ್ ಹೊಸಹಳ್ಳಿ ಕೇಶವವೂರ್ತಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<speaker>
 			<name>ವ್ಯಾಖ್ಯಾನ:ವಿದ್ವಾನ್ ಮತ್ತೂರು ಮಾರ್ಕಂಡೇಯ ಅವಧಾನಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಕುಮಾರವ್ಯಾಸಭಾರತ `ಉದ್ಯೋಗಪರ್ವ'</subject>	
 	</entry>
@@ -2188,11 +2185,11 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಮತ್ತು ಶ್ರೀ ಪತ್ತಿ ಶ್ರೀಧರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಪತ್ತಿ ಶ್ರೀ ಆದಿನಾರಣಯ್ಯ ಮತ್ತು ಶ್ರೀಮತಿ ರಾಮಲಕ್ಷ್ಮಮ್ಮ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಾಚನ:ಗಮಕ ವಿದ್ವಾನ್ ಹೊಸಹಳ್ಳಿ ಕೇಶವವೂರ್ತಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<speaker>
 			<name>ವ್ಯಾಖ್ಯಾನ:ವಿದ್ವಾನ್ ಮತ್ತೂರು ಮಾರ್ಕಂಡೇಯ ಅವಧಾನಿ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಕುಮಾರವ್ಯಾಸಭಾರತ `ಉದ್ಯೋಗಪರ್ವ'</subject>	
 	</entry>
@@ -2202,7 +2199,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಮತ್ತು ಶ್ರೀ  ಪತ್ತಿಶ್ರೀಧರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಆರ್.ಕೆ. ಪದ್ಮನಾಭ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಗಾಯನ ಕಾರ್ಯಕ್ರಮ</subject>	
 	</entry>
@@ -2232,7 +2229,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ರಾಷ್ಟ್ರಕವಿ ಗೋಮಿಂದ ಪೈ ಅವರ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -2242,7 +2239,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ರಾಷ್ಟ್ರಕವಿ ಗೋಮಿಂದ ಪೈ ಅವರ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -2252,7 +2249,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ರಾಷ್ಟ್ರಕವಿ ಗೋಮಿಂದ ಪೈ ಅವರ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -2262,7 +2259,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ರಾಷ್ಟ್ರಕವಿ ಗೋಮಿಂದ ಪೈ ಅವರ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -2272,7 +2269,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ರಾಷ್ಟ್ರಕವಿ ಗೋಮಿಂದ ಪೈ ಅವರ ಕೃತಿಪರಿಚಯ</subject>	
 	</entry>
@@ -2302,7 +2299,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ನಾಗಭೂಷಣ ಹೆಗಡೆ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -2372,7 +2369,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಂಜನಿ ವಾಸುಕಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎ. ವಾಸುಕಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>	
 	</entry>
@@ -2382,7 +2379,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಂಜನಿ ವಾಸುಕಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎ. ವಾಸುಕಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>	
 	</entry>
@@ -2392,7 +2389,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಂಜನಿ ವಾಸುಕಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎ. ವಾಸುಕಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>	
 	</entry>
@@ -2402,7 +2399,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಂಜನಿ ವಾಸುಕಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎ. ವಾಸುಕಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>	
 	</entry>
@@ -2412,7 +2409,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಂಜನಿ ವಾಸುಕಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎ. ವಾಸುಕಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>	
 	</entry>
@@ -2449,7 +2446,7 @@
 	<entry>
 		<date>2012-10-11</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>	 	   					
+		<sponsor />	 	   					
 		<speaker>
 			<name>ಡಾ||ಬಿ.ಎಸ್. ಸತೀಶ ರಾವ್</name>
 			<details>ಆಯುರ್ವೇದ ಚಿಕಿತ್ಸಾ ತಜ್ಞರು, ಬೆಂಗಳೂರು</details>
@@ -2459,10 +2456,10 @@
 	<entry>
 		<date>2012-10-12</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>	 	   					
+		<sponsor />	 	   					
 		<speaker>
 			<name>ವಿದುಷಿ ಕಲಾಧಾರೀ ಭವನಿ ಮತ್ತು ಸಂಗಡಿಗರಿಂದ</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಮತ್ತು ಭಕ್ತಿಗೀತೆಗಳ ಗಾಯನ ಕಾರ್ಯಕ್ರಮ</subject>	
 	</entry>
@@ -2472,7 +2469,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಸೌದಾಮಿನಿ ವೆಂಕಟೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -2482,11 +2479,11 @@
 		<sponsor>ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ ವ್ಯಾಸಂಗ ಗೋಷ್ಠಿ - ಬೆಂಗಳೂರು; ಶ್ರೀಮತಿ ರಮಾರತ್ನ ಮತ್ತು ಶ್ರೀ ವೈ.ಎಸ್. ಮಂಜುನಾಥರಾವ್; ಶ್ರೀಮತಿ ರಂಜನಿ ವಾಸುಕೀ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎ. ವಾಸುಕಿ; ಶ್ರೀ ಆರ್.ಎಸ್. ಸುಬ್ಬರಾಯ; ಶ್ರೀಮತಿ ಅನಿತಾ ಎಸ್. ರಾವ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<speaker>
 		<name>ಶ್ರೀ ಬಿ. ಕೆ. ಎಸ್. ವರ್ಮಾ</name>
-		<details></details>	 	   					
+		<details />	 	   					
 		</speaker>
 		<subject>`ಕಾವ್ಯ-ಚಿತ್ರ'</subject>	
 	</entry>
@@ -2496,7 +2493,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಭರ್ತೃಹರಿಯ `ನೀತಿಶತಕ' ಮತ್ತು `ವೈರಾಗ್ಯಶತಕ'</subject>	
 	</entry>
@@ -2506,7 +2503,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಭರ್ತೃಹರಿಯ `ನೀತಿಶತಕ' ಮತ್ತು `ವೈರಾಗ್ಯಶತಕ'</subject>	
 	</entry>
@@ -2516,7 +2513,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಭರ್ತೃಹರಿಯ `ನೀತಿಶತಕ' ಮತ್ತು `ವೈರಾಗ್ಯಶತಕ'</subject>	
 	</entry>
@@ -2526,7 +2523,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್.ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ, ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಭರ್ತೃಹರಿಯ `ನೀತಿಶತಕ' ಮತ್ತು `ವೈರಾಗ್ಯಶತಕ'</subject>	
 	</entry>
@@ -2846,7 +2843,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಭಾರತಿ ಬಾಲಕೃಷ್ಣನ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -2946,7 +2943,7 @@
 		<sponsor>ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತ ಕಲಾಕಾರ ಮಂಡಳಿ ಮತ್ತು ಗೋ.ಸಾ .ವಿ .ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಎಂ. ವೆಂಕಟೇಶಕುಮಾರ್</name>
-			<details></details>	 	   					
+			<details />	 	   					
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -3026,15 +3023,15 @@
 		<sponsor>ಸಂಗೀತ ವಿದುಷಿ ವಲ್ಲಭಂ ಕಲ್ಯಾಣಸುಂದರಂ ಜ್ಞಾಪಕಾರ್ಥ</sponsor>
 		<speaker>
 			<name>ಗಾಯನ:ವಿದುಷಿ ಚಂದನ ಬಾಲಾ ಕಲ್ಯಾಣ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ವಯೊಲಿನ್: ವಿದ್ವಾನ್ ಸಿ.ಎನ್. ಚಂದ್ರಶೇಖರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ಮೃದಂಗ: ವಿದ್ವಾನ್ ಕೆ.ಯು. ಜಯಚಂದ್ರರಾವ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಗಾಯನ ಕಾರ್ಯಕ್ರಮ</subject>	
 	</entry>
@@ -3044,7 +3041,7 @@
 		<sponsor>M/s Bangalore Tool Room ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾವಧಾನ</subject>	
 	</entry>
@@ -3274,33 +3271,33 @@
 		<sponsor>ಶ್ರೀ ತ್ಯಾಗರಾಜ ಆರಾಧನೆಯ ಸಂದರ್ಭದಲ್ಲಿ ಶ್ರೀಮತಿ ಎಸ್.ಹೇಮವತಿ ಮತ್ತು ಶ್ರೀ ಶಂಕರನಾರಾಯಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಗಾಯನ: ಸಂಗೀತ ವಿದುಷಿ ಡಾ||ನಾಗವಲ್ಲಿ ನಾಗರಾಜ್ ಮತ್ತು ವಿದುಷಿ ರಂಜನಿ ವಾಸುಕಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ವ್ಯಾಖ್ಯಾನ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ರಾಗದರ್ಶನ</subject>	
 	</entry>
 	<entry>
 		<date>2013-2-2</date>
 		<time>ಸಂಜೆ 6.00-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಗಾಯನ:ಪಂಡಿತ್ ವಿಶ್ವನಾಥ ನಾಕೋಡ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ತಬಲ: ಶ್ರೀ ವಿ. ದತ್ತಕುಮಾರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ಕೊಳಲು: ಶ್ರೀ ಶಿವಲಿಂಗಪ್ಪ ರಾಜಾಪುರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ಹಾರ್ಮೋನಿಯಂ: ಶ್ರೀ ಅಶ್ವಿನ್ ವಾಲಾವಾಲ್ಕರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭಕ್ತಿಗೀತೆ, ವಚನ ಮತ್ತು ದೇವರನಾಮ</subject>	
 	</entry>
@@ -3340,19 +3337,19 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಟರತ್ನಮ್ಮ ಮತ್ತು ಶ್ರೀ ಓಲೇಟಿ ಶ್ರೀನಿವಾಸ ಶೆಟ್ಟಿ ಅವರ ಪುತ್ರ ಶ್ರೀ ಬಾಲರಾಜು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಗಾಯನ:ಗಮಕ ವಿದ್ವಾನ್ ಎಸ್. ವಾಸುದೇವರಾವ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ಹಾರ್ಮೋನಿಯಂ: ವಿದ್ವಾನ್ ಕೃಷ್ಣಮೂರ್ತಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ವಯೊಲಿನ್: ಪಿ. ಅಕ್ಷಯ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ತಬಲ: ವಿದ್ವಾನ್ ಅನಂತರಾಜು</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭಕ್ತಿಗೀತೆಗಳ ಗಾಯನ ಕಾರ್ಯಕ್ರಮ</subject>	
 	</entry>
@@ -3362,7 +3359,7 @@
 		<sponsor>ನ್ಯಾಯಮೂರ್ತಿ ಆರ್. ವೆಂಕಟರಾಮಯ್ಯ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಡಾ|| ಸಿ.ಡಿ. ಸಂಪತ್ ಕುಮಾರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಿಶ್ವ ಚೈತನ್ಯ ಚಿಕಿತ್ಸೆ</subject>	
 	</entry>
@@ -3372,7 +3369,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ನಿತಿನ್ ಢವಳೀಕರ್ ಗೋವಾ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರಿಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -3459,7 +3456,7 @@
 	<entry>
 		<date>2013-2-20</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಶ್ರೀ ಕೆ.ಸಿ. ರಘು</name>
 			<details>ಆಹಾರ ವಿಜ್ಞಾನ ತಜ್ಞರು</details>
@@ -3532,7 +3529,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಗೌರಮ್ಮ ಶಂಕರನಾರಾಯಣ ಮತ್ತು ಶ್ರೀಶಂಕರನಾರಾಯಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಗೀತಗೋವಿಂದ</subject>	
 	</entry>
@@ -3542,7 +3539,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಗೌರಮ್ಮ ಶಂಕರನಾರಾಯಣ ಮತ್ತು ಶ್ರೀಶಂಕರನಾರಾಯಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಗೀತಗೋವಿಂದ</subject>	
 	</entry>
@@ -3609,7 +3606,7 @@
 	<entry>
 		<date>2013-3-14</date>
 		<time>ಸಂಜೆ 6.30</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Professor Abdul Aziz</name>
 			<details>Retd. Professor and Head, Economics Unit. ISEC</details>
@@ -3712,7 +3709,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮಂಗಳಾ ರಂಗನಾಥ್ ಮತ್ತು ಪ್ರೊ||ಜಿ.ಎಸ್. ರಂಗನಾಥ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಎಸ್. ಶಂಕರ್ ಮತ್ತು ಸಂಗಡಿಗರಿಂದ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ (ಸಂಗೀತ ತ್ರಿಮೂರ್ತಿಗಳ ಕೊಡುಗೆ - ಪ್ರಾತ್ಯಕ್ಷಿಕೆ)</subject>	
 	</entry>
@@ -3722,7 +3719,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ - ೩)</subject>	
 	</entry>
@@ -3732,7 +3729,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ - ೩)</subject>	
 	</entry>
@@ -3742,7 +3739,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ - ೩)</subject>	
 	</entry>
@@ -3752,7 +3749,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ - ೩)</subject>	
 	</entry>
@@ -3762,7 +3759,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಕೆ.ಎಸ್. ಸರಸ್ವತಿ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಎಸ್. ರಾಮಮೂರ್ತಿ, ಶಿವಮೊಗ್ಗ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಕವಿ ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ (ಸರಣಿ - ೩)</subject>	
 	</entry>
@@ -3772,7 +3769,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪು.ತಿ.ನ. ಅವರ ‘ಗೋಕುಲನಿರ್ಗಮನ’</subject>	
 	</entry>
@@ -3782,7 +3779,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪು.ತಿ.ನ. ಅವರ ‘ಗೋಕುಲನಿರ್ಗಮನ’</subject>	
 	</entry>
@@ -3792,7 +3789,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪು.ತಿ.ನ. ಅವರ ‘ಗೋಕುಲನಿರ್ಗಮನ’</subject>	
 	</entry>
@@ -3829,20 +3826,20 @@
 	<entry>
 		<date>2013-4-8</date>
 		<time>ಸಂಜೆ 6.30-7.45</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಗೆ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಗಂಗಾನಾಥ್ ಝೂ ಅವರ ಕೊಡುಗೆ</subject>	
 	</entry>
 	<entry>
 		<date>2013-4-9</date>
 		<time>ಸಂಜೆ 6.30-7.45</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಗೆ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಪಾಂಡುರಂಗ ವಾಮನ ಕಾಣೆ ಅವರ ಕೊಡುಗೆ</subject>	
 	</entry>
@@ -3852,7 +3849,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಓಂಕಾರ್ ಹವಾಲ್ದಾರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -3902,7 +3899,7 @@
 		<sponsor>ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತ ಕಲಾಕಾರ ಮಂಡಳಿ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಸಾಯಿಲೆ ಪಾನ್ಸೆ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -3912,7 +3909,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮಾ ಸುಧಾಕರ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -3922,7 +3919,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮಾ ಸುಧಾಕರ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -3932,7 +3929,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮಾ ಸುಧಾಕರ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -3942,7 +3939,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮಾ ಸುಧಾಕರ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -3952,7 +3949,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮಾ ಸುಧಾಕರ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಉಪನ್ಯಾಸಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾದಶಪುರಾಣ ಪರಿಚಯ (ಮುಂದುವರಿದ ಭಾಗ)</subject>	
 	</entry>
@@ -4002,7 +3999,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್. ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೧)</subject>	
 	</entry>
@@ -4012,7 +4009,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್. ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೧)</subject>	
 	</entry>
@@ -4022,7 +4019,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್. ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೧)</subject>	
 	</entry>
@@ -4032,7 +4029,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್. ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೧)</subject>	
 	</entry>
@@ -4042,7 +4039,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾ ಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್. ಎ. ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೧)</subject>	
 	</entry>
@@ -4079,7 +4076,7 @@
 	<entry>
 		<date>2013-5-9</date>
 		<time>ಸಂಜೆ 6.30</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Sri N. Gopalaswamy</name>
 			<details>Former Chief Election commissioner of India</details>
@@ -4089,10 +4086,10 @@
 	<entry>
 		<date>2013-5-10</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ವಿದುಷಿ ಸುಮಾ ವೆಂಕಟೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -4102,7 +4099,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 		<name>ಪಂಡಿತ್ ಡಾ|| ರವೀಂದ್ರ ಕಾಟೋಟಿ</name>
-		<details></details>
+		<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಹಾರ್ಮೋನಿಯಂ ಸೋಲೊ</subject>	
 	</entry>
@@ -4112,7 +4109,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಚನ ವಿಭೂತಿ</subject>	
 	</entry>
@@ -4122,7 +4119,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಚನ ವಿಭೂತಿ</subject>	
 	</entry>
@@ -4132,7 +4129,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಚನ ವಿಭೂತಿ</subject>	
 	</entry>
@@ -4142,7 +4139,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ವಚನ ವಿಭೂತಿ</subject>	
 	</entry>
@@ -4203,7 +4200,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಡಾ||ರವಿಂದ್ರ ಕಾಟೋಟಿ ಮತ್ತು ಸಂಗಡಿಗರಿಂದ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರಿಯ ಸಂಗೀತ - ಹಾರ್ಮೋನಿಯಂ ವಾದ್ಯಗೋಷ್ಠಿ</subject>	
 	</entry>
@@ -4213,7 +4210,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋ.ಎನ್. ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ರೇಣುಕಾ ರುದ್ರಪಟ್ಟಣ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -4263,7 +4260,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೨)</subject>	
 	</entry>
@@ -4273,7 +4270,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೨)</subject>	
 	</entry>
@@ -4283,7 +4280,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೨)</subject>	
 	</entry>
@@ -4293,7 +4290,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೨)</subject>	
 	</entry>
@@ -4303,7 +4300,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ - ೨)</subject>	
 	</entry>
@@ -4311,20 +4308,14 @@
 		<date>2013-6-6</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜನ್ಮದಿನೋತ್ಸವ ಕಾರ್ಯಕ್ರಮ</subject>	
 	</entry>
 	<entry>
 		<date>2013-6-8</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<sponsor />
+		<speaker />
 		<subject>‘ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ’ ಚಲನಚಿತ್ರ ಪ್ರದರ್ಶನ</subject>	
 	</entry>
 	<entry>
@@ -4383,7 +4374,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ರೇಖಾ ದಿನೇಶ್ ಶಿರಸಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>	
 	</entry>
@@ -4433,11 +4424,11 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಹಾರ್ಮೋನಿಯಂ: ಪಂಡಿತ್ ಡಾ|| ರವೀಂದ್ರ ಕಾಟೋಟಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ವಯೊಲಿನ್: ವಿದುಷಿ ಚಾರುಲತಾ ರಾಮಾನುಜಂ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರಿಯ ಸಂಗೀತ - ಜುಗಲ್ಬಂದಿ</subject>	
 	</entry>
@@ -4447,7 +4438,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ-೩)</subject>	
 	</entry>
@@ -4457,7 +4448,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ-೩)</subject>	
 	</entry>
@@ -4467,7 +4458,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ-೩)</subject>	
 	</entry>
@@ -4477,7 +4468,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ-೩)</subject>	
 	</entry>
@@ -4487,14 +4478,14 @@
 		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀರವಿಶಂಕರ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ (ಸರಣಿ-೩)</subject>	
 	</entry>	
 	<entry>	
 		<date>2013-7-1</date>
 		<time>ಸಂಜೆ 6.30</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Dr. Sibichen K. Mathew</name>
 			<details>Adviser, Telecom Regulatory Authority of India</details>
@@ -4534,7 +4525,7 @@
 	<entry>	
 		<date>2013-7-5</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಪ್ರೊ|| ವಿ. ನಾರಾಯಣಸ್ವಾಮಿ</name>
 			<details>ಖ್ಯಾತ ವಕೀಲರು; ನಿವೃತ್ತ ಕಾನೂನು ಅಧ್ಯಾಪಕರು</details>
@@ -4547,7 +4538,7 @@
 		<sponsor>ಕೀರ್ತಿಶೇಷ ಹರಿಕಥಾ ವಿದ್ವಾನ್ ಮತ್ತಕ್ಕೂರು ರಾಜಣ್ಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>	
 	</entry>
@@ -4557,7 +4548,7 @@
 		<sponsor>ಕೀರ್ತಿಶೇಷ ಹರಿಕಥಾ ವಿದ್ವಾನ್ ಮತ್ತಕ್ಕೂರು ರಾಜಣ್ಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>	
 	</entry>
@@ -4567,7 +4558,7 @@
 		<sponsor>ಕೀರ್ತಿಶೇಷ ಹರಿಕಥಾ ವಿದ್ವಾನ್ ಮತ್ತಕ್ಕೂರು ರಾಜಣ್ಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>	
 	</entry>
@@ -4577,14 +4568,14 @@
 		<sponsor>ಕೀರ್ತಿಶೇಷ ಹರಿಕಥಾ ವಿದ್ವಾನ್ ಮತ್ತಕ್ಕೂರು ರಾಜಣ್ಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>	
 	</entry>
 	<entry>	
 		<date>2013-7-10</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಪ್ರೊ|| ಕೆ.ಆರ್. ನರಸಿಂಹ ಶೆಟ್ಟಿ</name>
 			<details>ನಿರ್ದೇಶಕರು, ಕರ್ನಾಟಕ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಡಯಾಬೆಟಾಲಜಿ, ಬೆಂಗಳೂರು</details>
@@ -4594,7 +4585,7 @@
 	<entry>	
 		<date>2013-7-11</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ||ಆರ್.ಪಿ.ಜೋಷಿ</name>
 			<details>ವೈದ್ಯಾಧಿಕಾರಿಗಳು, ಕೇಂದ್ರ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಯೋಜನೆ, ಬೆಂಗಳೂರು</details>
@@ -4617,7 +4608,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಹಿಂದೂಸ್ತಾನಿ ಶಸ್ತ್ರೀಯ ಸಂಗೀತ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಉದಯರಾಜ್ ಕರ್ಪೂರ್ ಮತ್ತು ಸಂಗಡಿಗರು ಮತ್ತು ವಿದ್ವಾನ್ ಎನ್.ಎಸ್.ಪ್ರಸದ್</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -4676,7 +4667,7 @@
 		<sponsor>ಕೀರ್ತಿಶೇಷ ಹರಿಕಥಾ ವಿದ್ವಾನ್ ಮತ್ತಕ್ಕೂರು ರಾಜಣ್ಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>	
 	</entry>
@@ -4686,7 +4677,7 @@
 		<sponsor>ಕೀರ್ತಿಶೇಷ ಹರಿಕಥಾ ವಿದ್ವಾನ್ ಮತ್ತಕ್ಕೂರು ರಾಜಣ್ಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>	
 	</entry>
@@ -4696,7 +4687,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೪)</subject>	
 	</entry>
@@ -4706,7 +4697,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೪)</subject>	
 	</entry>
@@ -4716,7 +4707,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೪)</subject>	
 	</entry>
@@ -4726,7 +4717,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೪)</subject>	
 	</entry>
@@ -4736,7 +4727,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೪)</subject>	
 	</entry>
@@ -4836,14 +4827,14 @@
 		<sponsor>ಶ್ರೀಕೃಷ್ಣಜನ್ಮಾಷ್ಟಮಿ ಸಂದರ್ಭದಲ್ಲಿ ಶ್ರೀ ಆರ್. ವ್ಯಾಸರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ದಿವಂಗತ ಶ್ರೀ ಆರ್.ವಿ. ಪ್ರಭಾಕರರಾವ್ ಅವರ ಪತ್ನಿ ಶ್ರೀಮತಿ ಇಂದಿರಾದೇವಿ ಅವರು ನೀಡಿರುವ ದತ್ತಿ ಮತ್ತು ಶ್ರೀಪ್ರಕಾಶ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಡಾ|| ಆರ್.ಜಿ.ಮಳಗಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಕೃಷ್ಣನ ಆದರ್ಶಗಳು</subject>	
 	</entry>
 	<entry>	
 		<date>2013-8-8</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಶ್ರೀ ಆರ್. ರಾಜಶೇಖರ್</name>
 			<details>ಆಹಾರ ತಜ್ಞರು</details>
@@ -4856,7 +4847,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಸ್ಮಿತಾ ಬೆಳ್ಳೂರು ಮತ್ತು ಅವರ ಶಿಷ್ಯ</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -4865,7 +4856,7 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ ವಾಗ್ಗೇಯಕಾರ ಶ್ಯಾಮಶಾಸ್ತ್ರೀ ಸ್ಮರಣಾಂಜಲಿ (ಶ್ಯಾಮಶಾಸ್ತ್ರಿಗಳ ೨೫೦ ನೇ ಜನ್ಮವರ್ಷ ಸಂದರ್ಭದಲ್ಲಿ)</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಡಾ|| ನಾಗವಲ್ಲಿ ನಾಗರಾಜ್ ಮತ್ತು ವಿದುಷಿ ರಂಜನಿ ವಾಸುಕಿ, ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -4874,13 +4865,13 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ ವಾಗ್ಗೇಯಕಾರ ಶ್ಯಾಮಶಾಸ್ತ್ರೀ ಸ್ಮರಣಾಂಜಲಿ (ಶ್ಯಾಮಶಾಸ್ತ್ರಿಗಳ ೨೫೦ ನೇ ಜನ್ಮವರ್ಷ ಸಂದರ್ಭದಲ್ಲಿ)</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಡಾ|| ನಾಗವಲ್ಲಿ ನಾಗರಾಜ್ ಮತ್ತು ವಿದುಷಿ ರಂಜನಿ ವಾಸುಕಿ, ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
 		<date>2013-8-17</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ|| ಆರ್.ಪಿ.ಜೋಷಿ</name>
 			<details>ವೈದ್ಯಾಧಿಕಾರಿಗಳು, ಕೇಂದ್ರ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಯೋಜನೆ, ಬೆಂಗಳೂರು</details>
@@ -5032,7 +5023,7 @@
 		<sponsor>ಶ್ರೀ ಪತ್ತಿ ಆದಿನಾರಣಯ್ಯ ಮತ್ತು ಶ್ರೀಮತಿ ರಾಮಕ್ಷ್ಮಮ್ಮ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಪತ್ತಿ ಶ್ರೀಧರ ಮತ್ತು ಶ್ರೀಮತಿ ಶಾಂತಾ ಶ್ರೀಧರ ಪ್ರಾಯೋಜಿಸಿರುವ `ಗಾನ-ಜ್ಞಾನ ಸುಧಾ' ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಕೆ.ವಿ.ಕೃಷ್ಣಪ್ರಸಾದ್ ಮತ್ತು ವಿದ್ವಾನ್ ಎಸ್. ಆರ್. ವಿಜಯ್ ವಿದ್ವಾನ್ ಕೆ. ಎನ್. ವೆಂಕಟನಾರಾಯಣ</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -5091,7 +5082,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಮಾ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೧)</subject>	
 	</entry>
@@ -5101,7 +5092,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಮಾ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೧)</subject>	
 	</entry>
@@ -5111,7 +5102,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಮಾ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೧)</subject>	
 	</entry>
@@ -5121,14 +5112,14 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಮಾ ಅವರು ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೧)</subject>	
 	</entry>
 	<entry>	
 		<date>2013-9-28</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ|| ಆರ್.ಪಿ.ಜೋಷಿ</name>
 			<details>ವೈದ್ಯಾಧಿಕಾರಿಗಳು, ಕೇಂದ್ರ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಯೋಜನೆ, ಬೆಂಗಳೂರು</details>
@@ -5151,7 +5142,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೫)</subject>	
 	</entry>
@@ -5161,7 +5152,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೫)</subject>	
 	</entry>
@@ -5171,7 +5162,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೫)</subject>	
 	</entry>
@@ -5181,7 +5172,7 @@
 		<sponsor>M/s Bangalore Tool Room, Bangalore</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಉಪನಿಷತ್ತುಗಳ ಪರಿಚಯ(ಸರಣಿ-೫)</subject>	
 	</entry>
@@ -5191,7 +5182,7 @@
 		<sponsor>ಡಿ.ವಿ.ಜಿ.ಪುಣ್ಯಸ್ಮರಣೆಯ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಡಿ.ವಿ.ಜಿ.ಅವರ `ಜೀವನಧರ್ಮಯೋಗ'</subject>	
 	</entry>
@@ -5201,7 +5192,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಸುಂದರನಾಥ್, ಡಾ|| ರವೀಂದ್ರ ಕಾಟೋಟಿ</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -5520,7 +5511,7 @@
 		<sponsor>ಶ್ರೀ ದಿಲೀಪ್ ಸತ್ಯ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -5530,7 +5521,7 @@
 		<sponsor>ಶ್ರೀ ದಿಲೀಪ್ ಸತ್ಯ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -5540,7 +5531,7 @@
 		<sponsor>ಶ್ರೀ ದಿಲೀಪ್ ಸತ್ಯ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -5550,7 +5541,7 @@
 		<sponsor>ಶ್ರೀ ದಿಲೀಪ್ ಸತ್ಯ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -5560,7 +5551,7 @@
 		<sponsor>ಶ್ರೀ ದಿಲೀಪ್ ಸತ್ಯ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೨)</subject>	
 	</entry>
@@ -5630,7 +5621,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ: `ಭಕ್ತಿ ಭಾವ ಸಂಗಮ'</sponsor>
 		<speaker>
 			<name>ಕುಮಾರಿ ತೇಜಸ್ವಿನಿ ಮಳಗಿ</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -5649,7 +5640,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಜಿ.ಎನ್.ಶಕುಂತಲಾ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಹೆಚ್.ಆರ್.ಚಂದ್ರಶೇಖರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಆದರ್ಶಪುರುಷ ಶ್ರೀರಾಮಚಂದ್ರ</subject>	
 	</entry>
@@ -5659,7 +5650,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಜಿ.ಎನ್.ಶಕುಂತಲಾ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಹೆಚ್.ಆರ್.ಚಂದ್ರಶೇಖರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಆದರ್ಶಪುರುಷ ಶ್ರೀರಾಮಚಂದ್ರ</subject>	
 	</entry>
@@ -5669,7 +5660,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಜಿ.ಎನ್.ಶಕುಂತಲಾ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಹೆಚ್.ಆರ್.ಚಂದ್ರಶೇಖರ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಆದರ್ಶಪುರುಷ ಶ್ರೀರಾಮಚಂದ್ರ</subject>	
 	</entry>
@@ -5679,7 +5670,7 @@
 		<sponsor>ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತ ಕಲಾಕಾರ ಮಂಡಳಿ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀಮತಿ ಅನುಪಮ ಭಾಗವತ್, ಪಂಡಿತ್ ರಾಜೇಂದ್ರ ನಾಕೋಡ್</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -5688,7 +5679,7 @@
 		<sponsor>ಶ್ರೀ ಪತ್ತಿ ಆದಿನಾರಣಯ್ಯ ಮತ್ತು ಶ್ರೀಮತಿ ರಾಮಕ್ಷ್ಮಮ್ಮ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಪತ್ತಿ ಶ್ರೀಧರ ಮತ್ತು ಶ್ರೀಮತಿ ಶಾಂತಾ ಶ್ರೀಧರ ಪ್ರಾಯೋಜಿಸಿರುವ ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ: ಹಾರ್ಮೊನಿಯಂ ಸೋಲೋವಾದನ</sponsor>
 		<speaker>
 			<name>ಕರ್ನಾಟಕ ಕಲಾಶ್ರೀ ಸಿ.ರಾಮದಾಸ್ ಮತ್ತು ಸಂಗಡಿಗರು</name>
-			<details></details>
+			<details />
 		</speaker><subject/>
 	</entry>
 	<entry>	
@@ -5779,7 +5770,7 @@
 		<sponsor>M/s Bangalore Tool Room ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾವಧಾನ</subject>
 	</entry>
@@ -6103,7 +6094,7 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್ ಮತ್ತು ಶ್ರೀ ಬಿ.ಕೆ.ಎಸ್.ವರ್ಮಾ</name>
-			<details/>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಹೆಚ್.ಎಸ್.ವೇಣುಗೋಪಾಲ್</name>
@@ -6316,7 +6307,7 @@
 		<speaker>
 			<name>ವಿದುಷಿ ಮಧುವಂತಿ ಬೋರ್ಗಾಂವ್ಕರ್</name>
 			
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
@@ -6327,7 +6318,7 @@
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
 			
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸುಂದರಪಾಂಡ್ಯನ `ನೀತಿ ದ್ವಿಷಷ್ಟಿಕಾ'</subject>
 	</entry>
@@ -6337,13 +6328,14 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಅಮರುಕವಿಯ `ಅಮರುಕ ಶತಕ'</subject>
 	</entry>
 	<entry>	
 		<date>2014-3-6</date>
-		<time>ಸಂಜೆ 6.30-8.00</time><sponsor/>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
 		<speaker>
 			<name>ಶ್ರೀ ಪಿ.ಶೇಷಾದ್ರಿ</name>
 			<details>ನಿರ್ದೇಶನ ಮಾಡಿರುವ</details>
@@ -6361,7 +6353,8 @@
 	</entry>
 	<entry>	
 		<date>2014-3-8</date>
-		<time>6.30</time><sponsor/>
+		<time>6.30</time>
+		<sponsor />
 		<speaker>
 			<name>Dr.G.Thimmaiah</name>
 			<details>Chairman, Institute for social and Economic Change, Bangalore</details>
@@ -6374,7 +6367,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾಗ್ಯಲಕ್ಷಮ್ಮ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಜಿ.ಸೂರ್ಯನಾರಾಯಣ ಅವರ ಪುತ್ರ ಶ್ರೀ ಎಸ್.ಎಸ್.ಸೋಮಶೇಖರಶರ್ಮಾ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>
 	</entry>
@@ -6384,7 +6377,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾಗ್ಯಲಕ್ಷಮ್ಮ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಜಿ.ಸೂರ್ಯನಾರಾಯಣ ಅವರ ಪುತ್ರ ಶ್ರೀ ಎಸ್.ಎಸ್.ಸೋಮಶೇಖರಶರ್ಮಾ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>
 	</entry>
@@ -6394,7 +6387,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾಗ್ಯಲಕ್ಷಮ್ಮ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಜಿ.ಸೂರ್ಯನಾರಾಯಣ ಅವರ ಪುತ್ರ ಶ್ರೀ ಎಸ್.ಎಸ್.ಸೋಮಶೇಖರಶರ್ಮಾ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>
 	</entry>
@@ -6404,7 +6397,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾಗ್ಯಲಕ್ಷಮ್ಮ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಜಿ.ಸೂರ್ಯನಾರಾಯಣ ಅವರ ಪುತ್ರ ಶ್ರೀ ಎಸ್.ಎಸ್.ಸೋಮಶೇಖರಶರ್ಮಾ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>
 	</entry>
@@ -6414,7 +6407,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾಗ್ಯಲಕ್ಷಮ್ಮ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಜಿ.ಸೂರ್ಯನಾರಾಯಣ ಅವರ ಪುತ್ರ ಶ್ರೀ ಎಸ್.ಎಸ್.ಸೋಮಶೇಖರಶರ್ಮಾ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಪಭಾರತ</subject>
 	</entry>
@@ -6566,7 +6559,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>`ಕೌಟಿಲ್ಯ'</subject>
 	</entry>
@@ -6576,7 +6569,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>`ಕೌಟಿಲ್ಯ'</subject>
 	</entry>
@@ -6586,7 +6579,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>`ಕೌಟಿಲ್ಯ'</subject>
 	</entry>
@@ -6596,7 +6589,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೧)</subject>
 	</entry>
@@ -6606,7 +6599,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೧)</subject>
 	</entry>
@@ -6616,7 +6609,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೧)</subject>
 	</entry>
@@ -6626,7 +6619,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೧)</subject>
 	</entry>
@@ -6736,7 +6729,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೨)</subject>
 	</entry>
@@ -6746,7 +6739,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೨)</subject>
 	</entry>
@@ -6756,7 +6749,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೨)</subject>
 	</entry>
@@ -6766,7 +6759,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೨)</subject>
 	</entry>
@@ -6776,7 +6769,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ(ಸರಣಿ-೨)</subject>
 	</entry>
@@ -6806,7 +6799,7 @@
 		<sponsor>ಸಿ.ಕೆ.ನಾಗರಾಜರಾವ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕೆ.ಎಸ್.ನರಸಿಂಹಸ್ವಾಮಿ ಅವರ `ದಾಂಪತ್ಯಕಾವ್ಯ'</subject>
 	</entry>
@@ -6836,7 +6829,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ.ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೩)</subject>
 	</entry>
@@ -6846,7 +6839,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ.ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೩)</subject>
 	</entry>
@@ -6856,7 +6849,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ.ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೩)</subject>
 	</entry>
@@ -6866,7 +6859,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರಾಧಾಶ್ರೀನಿವಾಸ್ ಮತ್ತು ಶ್ರೀ ಎಸ್.ಎ.ಶ್ರೀನಿವಾಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು (ಸರಣಿ-೩)</subject>
 	</entry>
@@ -6886,7 +6879,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರವೀಂದ್ರ ಗುರುರಾಜ ಕಾಟೋಟಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಹಾರ್ಮೋನಿಯಂ ವಾದನ - ಭಕ್ತಿಸಂವಾದಿನಿ</subject>
 	</entry>
@@ -6896,7 +6889,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್. ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೪)</subject>
 	</entry>
@@ -6906,7 +6899,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್. ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೪)</subject>
 	</entry>
@@ -6916,7 +6909,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್. ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೪)</subject>
 	</entry>
@@ -6926,7 +6919,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್. ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೪)</subject>
 	</entry>
@@ -6936,7 +6929,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್. ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೪)</subject>
 	</entry>
@@ -6946,7 +6939,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್. ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೪)</subject>
 	</entry>
@@ -7006,7 +6999,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋ.ಎಸ್.ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಶ್ರೇಯ ಉಡುಪ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
@@ -7076,7 +7069,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೫)</subject>
 	</entry>
@@ -7086,7 +7079,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೫)</subject>
 	</entry>
@@ -7096,7 +7089,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೫)</subject>
 	</entry>
@@ -7106,7 +7099,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀ ಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೫)</subject>
 	</entry>
@@ -7123,7 +7116,7 @@
 		<sponsor>ನಾದಾನುಭವ ಮತ್ತು ಗೋ.ಸಾ.ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಸ್ಮಿತಾ ಬೆಳ್ಳೂರು</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
@@ -7243,7 +7236,7 @@
 		<sponsor>ಗೋ.ಸಾ.ನಿ.ಸಂಸ್ಥೆಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದುಷಿ ಲಕ್ಷ್ಮಿಶ್ರೀರಾಮ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
@@ -7253,7 +7246,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೬)</subject>
 	</entry>
@@ -7263,7 +7256,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೬)</subject>
 	</entry>
@@ -7273,7 +7266,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೬)</subject>
 	</entry>
@@ -7283,7 +7276,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೬)</subject>
 	</entry>
@@ -7293,7 +7286,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ದೀಪ್ತಿ ಶ್ರೀಶನ್ ಮತ್ತು ಶ್ರೀಟಿ.ಎಸ್.ಶ್ರೀಶನ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಮಹಾಭಾರತ ಪಾತ್ರಗಳು(ಸರಣಿ-೬)</subject>
 	</entry>	
@@ -7313,7 +7306,7 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸುಂದರಪಾಂಡ್ಯನ `ನೀತಿ ದ್ವಿಷಷ್ಟಿಕಾ'</subject>
 	</entry>
@@ -7323,14 +7316,14 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಅಮರುಕವಿಯ `ಆಮರುಕ ಶತಕ'</subject>
 	</entry>
 	<entry>	
 		<date>2014-7-1</date>
 		<time>6.30</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>Dr.Sibichen K. Mathew, IRS</name>
 			<details>Adviser, Telecom Regulatory Authority of India</details>
@@ -7358,7 +7351,7 @@
 	<entry>	
 		<date>2014-7-3</date>
 		<time>6.30</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>Dr.Sebastian Joseph</name>
 			<details>Assistant Professor, Post-Graduate Department and Research Centre in History, Union Christian College, Aluva, Cochin</details>
@@ -7532,7 +7525,7 @@
 	<entry>	
 		<date>2014-7-13</date>
 		<time>ಬೆಳಗ್ಗೆ 6.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>ಪರಮಪೂಜ್ಯ ಶ್ರೀ ಪರಮಾನಂದ ಭಾರತೀ ಸ್ವಾಮೀಜಿ</name>
 			<details>2014-7-13 ರಿಂದ 2014-9-9</details>
@@ -7695,7 +7688,7 @@
 		<sponsor>ಶ್ರೀಗೀತಮ್ಮ ಭಟ್ಟ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಸಿ.ಕಪಿನೀಪತಿ ಭಟ್ಟ ದತ್ತಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕವಿಸಾರ್ವಭೌಮ ಶ್ರೀನಾಥ</subject>
 	</entry>
@@ -7874,7 +7867,7 @@
 	<entry>	
 		<date>2014-8-25</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ||ಜಿ.ಬಿ.ಹರೀಶ</name>
 			<details>ಸಾಹಿತಿ, ವಿಮರ್ಶಕ</details>
@@ -7884,7 +7877,7 @@
 	<entry>	
 		<date>2014-8-26</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>ಕರ್ನಾಟಕ ಕಲಾಶ್ರೀ ವಿದುಷಿ ಉಷಾ ರಾಮಮೂರ್ತಿ</name>
 			<details>ವಾದನ</details>
@@ -7955,7 +7948,7 @@
 		<sponsor>ಕೊರ್ಗಿ ಶ್ರೀವೆಂಕಟೇಶ್ವರ ಉಪಾಧ್ಯಾಯ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಭೋಜರಾಜನ `ಚಂಪೂರಾಮಾಯಣ'</subject>
 	</entry>
@@ -7965,7 +7958,7 @@
 		<sponsor>ಕೊರ್ಗಿ ಶ್ರೀವೆಂಕಟೇಶ್ವರ ಉಪಾಧ್ಯಾಯ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಭೋಜರಾಜನ `ಚಂಪೂರಾಮಾಯಣ'</subject>
 	</entry>
@@ -7975,7 +7968,7 @@
 		<sponsor>ಕೊರ್ಗಿ ಶ್ರೀವೆಂಕಟೇಶ್ವರ ಉಪಾಧ್ಯಾಯ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಭೋಜರಾಜನ `ಚಂಪೂರಾಮಾಯಣ'</subject>
 	</entry>
@@ -8167,7 +8160,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವಿದುಷಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಐ.ಎಸ್.ವೆಂಕಟೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ವಿಶಿಷ್ಟ ವೇದಸೂಕ್ತಗಳು</subject>
 	</entry>
@@ -8177,7 +8170,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವಿದುಷಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಐ.ಎಸ್.ವೆಂಕಟೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ವಿಶಿಷ್ಟ ವೇದಸೂಕ್ತಗಳು</subject>
 	</entry>
@@ -8187,7 +8180,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವಿದುಷಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಐ.ಎಸ್.ವೆಂಕಟೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ವಿಶಿಷ್ಟ ವೇದಸೂಕ್ತಗಳು</subject>
 	</entry>
@@ -8197,7 +8190,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವಿದುಷಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಐ.ಎಸ್.ವೆಂಕಟೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ವಿಶಿಷ್ಟ ವೇದಸೂಕ್ತಗಳು</subject>
 	</entry>
@@ -8207,7 +8200,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವಿದುಷಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಐ.ಎಸ್.ವೆಂಕಟೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ವಿಶಿಷ್ಟ ವೇದಸೂಕ್ತಗಳು</subject>
 	</entry>
@@ -8217,24 +8210,24 @@
 		<sponsor>ಶ್ರೀಮತಿ ವಿದುಷಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಐ.ಎಸ್.ವೆಂಕಟೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ವಿಶಿಷ್ಟ ವೇದಸೂಕ್ತಗಳು</subject>
 	</entry>
 	<entry>	
 		<date>2014-10-5</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker/>
 		<subject>ಡಿ.ವಿ.ಜಿ ಪುಣ್ಯಸ್ಮರಣೆಯ ಕಾರ್ಯಕ್ರಮ</subject>
 	</entry>
 	<entry>	
 		<date>2014-10-7</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>ಶ್ರೀನಿಧಿ ಕೆ.ಪಾರ್ಥಸಾರಥಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಇಂದಿನ ಜೀವನಕ್ಕೆ ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ</subject>
 	</entry>
@@ -8430,7 +8423,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಸುಧೀರ ಪೋಟೆ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ `ಗುಣಿ ಗೋವಿಂದ' ಪಂಡಿತ್ ಗೋವಿಂದರಾವ್ ಟೇಂಬೆ ಅವರ ವಿಚಾರ ಮತ್ತು ಕೃತಿ-ಪ್ರಾತ್ಯಕ್ಷಿಕೆ</subject>
 	</entry>
@@ -8630,7 +8623,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸುಭಾಷಿತಗಳು</subject>
 	</entry>
@@ -8640,7 +8633,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸುಭಾಷಿತಗಳು</subject>
 	</entry>
@@ -8650,7 +8643,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸುಭಾಷಿತಗಳು</subject>
 	</entry>
@@ -8660,7 +8653,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸುಭಾಷಿತಗಳು</subject>
 	</entry>
@@ -8670,7 +8663,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸುಭಾಷಿತಗಳು</subject>
 	</entry>
@@ -8770,7 +8763,7 @@
 		<sponsor>ಶ್ರೀ ಕೆ.ಎಸ್.ನರಸಿಂಹಸ್ವಾಮಿ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಡಾ||ಹೆಚ್.ಎಸ್.ವೆಂಕಟೇಶಮೂರ್ತಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕೆ.ಎಸ್.ನ.: ಒಂದು ಒಟ್ಟು ನೋಟ</subject>
 	</entry>
@@ -9020,7 +9013,7 @@
 		<sponsor>`ಆಧ್ಯಾತ್ಮ ಪ್ರಕಾಶ' ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ ಪ್ರವಚಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಕೃಷ್ಣಕರ್ಣಾಮೃತ</subject>
 	</entry>
@@ -9030,7 +9023,7 @@
 		<sponsor>`ಆಧ್ಯಾತ್ಮ ಪ್ರಕಾಶ' ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ ಪ್ರವಚಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಕೃಷ್ಣಕರ್ಣಾಮೃತ</subject>
 	</entry>
@@ -9080,7 +9073,7 @@
 		<sponsor>ಶ್ರೀ ಜಿ.ಎಸ್.ರಾಘವೇಂದ್ರ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕುಮಾರದಾಸನ `ಜಾನಕೀಹರಣ' ಮಹಾಕಾವ್ಯ</subject>
 	</entry>
@@ -9090,7 +9083,7 @@
 		<sponsor>ಶ್ರೀ ಜಿ.ಎಸ್.ರಾಘವೇಂದ್ರ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕುಮಾರದಾಸನ `ಜಾನಕೀಹರಣ' ಮಹಾಕಾವ್ಯ</subject>
 	</entry>
@@ -9100,7 +9093,7 @@
 		<sponsor>ಶ್ರೀ ಜಿ.ಎಸ್.ರಾಘವೇಂದ್ರ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕುಮಾರದಾಸನ `ಜಾನಕೀಹರಣ' ಮಹಾಕಾವ್ಯ</subject>
 	</entry>
@@ -9110,7 +9103,7 @@
 		<sponsor>ಶ್ರೀ ಜಿ.ಎಸ್.ರಾಘವೇಂದ್ರ ಪ್ರಾಯೋಜಿಸಿರುವ ಪ್ರವಚನಮಾಲೆ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕುಮಾರದಾಸನ `ಜಾನಕೀಹರಣ' ಮಹಾಕಾವ್ಯ</subject>
 	</entry>
@@ -9120,7 +9113,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಲಲಿತಮ್ಮ ಮತ್ತು ಶ್ರೀ ಬಿ.ಎನ್‍.ವಿಶ್ವನಾಥ್‍ ಹಾಗೂ ಶ್ರೀ ಬಿ.ವಿ.ನಟರಾಜ್‍ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಯಜ್ಞ-ದಾನ-ತಪಸ್ಸು: ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯ ಬುನಾದಿ</subject>
 	</entry>
@@ -9152,7 +9145,7 @@
 		<sponsor>M/s Bangalore Tool Room ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾವಧಾನ</subject>
 	</entry>
@@ -9710,16 +9703,18 @@
 	</entry>
 	<entry>	
 		<date>2015-2-21</date>
-		<time>ಸಂಜೆ 6.30-8.00</time><sponsor/>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ||ಶ್ರೀಶೈಲಾ ಮ.ಬದಾಮಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಜಾಗತೀಕರಣದ ದುಷ್ಪರಿಣಾಮಗಳು</subject>
 	</entry>
 	<entry>	
 		<date>2015-2-22</date>
-		<time>ಸಂಜೆ 6.30-8.00</time><sponsor/>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
 		<speaker>
 			<name>ಪ್ರೊ||ಹಾಲ್ದೊಡ್ಡೇರಿ ಸುಧೀಂದ್ರ</name>
 			<details>ನಿವೃತ್ತ ವಿಜ್ಞಾನಿಗಳು, ಡಿ.ಆರ್‍.ಡಿ.ಓ; ವಿಜ್ಞಾನ ಬರಹಗಾರರು, ಬೆಂಗಳುರು</details>
@@ -9967,7 +9962,8 @@
 	</entry>
 	<entry>	
 		<date>2015-3-16</date>
-		<time>ಸಂಜೆ 6.30</time><sponsor/>
+		<time>ಸಂಜೆ 6.30</time>
+		<sponsor />
 		<speaker>
 			<name>Professor R.S.Deshpande</name>
 			<details>Former Director, Institute for social and Economic change</details>
@@ -10254,7 +10250,7 @@
 		<sponsor>ಶ್ರೀ ಪಿ.ಎನ್‍.ರಾಘವನ್‍ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸಂಸ್ಕೃತ ಕವಿಗಳ - ವಿನಯ; ಅಭಿಮಾನ-ಅಹಂಕಾರ</subject>
 	</entry>
@@ -10264,7 +10260,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್‍ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ</subject>
 	</entry>
@@ -10274,7 +10270,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್‍ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ</subject>
 	</entry>
@@ -10284,7 +10280,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್‍ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ</subject>
 	</entry>
@@ -10294,7 +10290,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್‍ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ</subject>
 	</entry>
@@ -10304,7 +10300,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್‍ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ</subject>
 	</entry>
@@ -10314,7 +10310,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್‍ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್‍</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ</subject>
 	</entry>
@@ -10529,7 +10525,7 @@
 	<entry>	
 		<date>2015-5-17</date>
 		<time>ಸಂಜೆ 5.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>ವಿದ್ವಾನ್‍ ರಮಣಿ ಎಸ್‍.ಶಂಕರ್</name>
 			<details>ಗಾಯನ</details>
@@ -10828,7 +10824,7 @@
 		<sponsor>ಆಲಂಪಲ್ಲಿ ಶ್ರೀಮತಿ ಶಾರದಾಂಬ ಮತ್ತು ಶ್ರೀಲಕ್ಷ್ಮೀನಾರಾಯಣ ಶೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರಗಳು</subject>
 	</entry>
@@ -10838,7 +10834,7 @@
 		<sponsor>ಆಲಂಪಲ್ಲಿ ಶ್ರೀಮತಿ ಶಾರದಾಂಬ ಮತ್ತು ಶ್ರೀಲಕ್ಷ್ಮೀನಾರಾಯಣ ಶೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರಗಳು</subject>
 	</entry>
@@ -10848,7 +10844,7 @@
 		<sponsor>ಆಲಂಪಲ್ಲಿ ಶ್ರೀಮತಿ ಶಾರದಾಂಬ ಮತ್ತು ಶ್ರೀಲಕ್ಷ್ಮೀನಾರಾಯಣ ಶೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರಗಳು</subject>
 	</entry>
@@ -11020,7 +11016,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್‍ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್‍ ಶ್ರೀಧರ ಕುಲಕರ್ಣಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
@@ -11097,14 +11093,14 @@
 	<entry>	
 		<date>2015-7-5</date>
 		<time>ಬೆಳಗ್ಗೆ 10.30-12.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>ಡಾ||ಎಸ್.ಎಲ್.ಭೈರಪ್ಪ</name>
 			<details>(ಖ್ಯಾತ ಸಾಹಿತಿಗಳು; ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಪುರಸ್ಕೃತರು ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಧ್ಯಾಪಕರು)</details>
 		</speaker>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<speaker>
 			<name>ಅಧ್ಯಕ್ಷತೆ: ಡಾ||ಎಸ್.ಆರ್.ರಾಮಸ್ವಾಮಿ</name>
@@ -11115,7 +11111,7 @@
 	<entry>	
 		<date>2015-7-6</date>
 		<time>6.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>Dr.Sibichen K.Mathaew, IRS</name>
 			<details>Adviser, Telecom Regulatory Authority of India</details>
@@ -11128,7 +11124,7 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಎಸ್.ಕಾರ್ತಿಕ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>`ಶಾಸನಗಳಲ್ಲಿ ಕಂಡ ಬೆಂಗಳೂರು'</subject>
 	</entry>
@@ -11299,7 +11295,7 @@
 	<entry>	
 		<date>2015-7-19</date>
 		<time>6.30</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>Smt.Nalini Prabhakaran</name>
 			<details>Guide, Oneness University</details>
@@ -11516,7 +11512,7 @@
 		<sponsor>ಶ್ರೀಗೀತಮ್ಮ ಭಟ್ಟ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಸಿ.ಕಪಿನೀಪತಿ ಭಟ್ಟ ದತ್ತಿ ಉಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಡಾ||ಆರ್.ಶಂಕರ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸಂಸ್ಕೃತದಲ್ಲಿ ಸಂದೇಶಕಾವ್ಯಗಳು</subject>
 	</entry>
@@ -11526,7 +11522,7 @@
 		<sponsor>ಶ್ರೀಗೀತಮ್ಮ ಭಟ್ಟ ಮತ್ತು ಶ್ರೀ ಎಚ್.ಸಿ.ಕಪಿನೀಪತಿ ಭಟ್ಟ ದತ್ತಿ ಉಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಡಾ||ಆರ್.ಶಂಕರ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಸಂಸ್ಕೃತದಲ್ಲಿ ಸಂದೇಶಕಾವ್ಯಗಳು</subject>
 	</entry>
@@ -11624,7 +11620,7 @@
 		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರವಚನಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೧)</subject>
 	</entry>
@@ -11634,7 +11630,7 @@
 		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರವಚನಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೧)</subject>
 	</entry>
@@ -11644,7 +11640,7 @@
 		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರವಚನಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೧)</subject>
 	</entry>
@@ -11654,7 +11650,7 @@
 		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರವಚನಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೧)</subject>
 	</entry>
@@ -11664,7 +11660,7 @@
 		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರವಚನಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೧)</subject>
 	</entry>
@@ -11674,7 +11670,7 @@
 		<sponsor>ಶ್ರೀ ಬಿ.ಕೆ.ಎಸ್.ಅಯ್ಯಂಗಾರ್ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಪಾತಂಜಲ ಯೋಗಸೂತ್ರ</subject>
 	</entry>
@@ -11684,7 +11680,7 @@
 		<sponsor>ಕೊರ್ಗಿ ಶ್ರೀವೆಂಕಟೇಶ್ವರ ಉಪಾಧ್ಯಾಯ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ರಾಘವಾಂಕನ `ಹರಿಶ್ಚಂದ್ರಕಾವ್ಯ'</subject>
 	</entry>
@@ -11694,7 +11690,7 @@
 		<sponsor>ಕೊರ್ಗಿ ಶ್ರೀವೆಂಕಟೇಶ್ವರ ಉಪಾಧ್ಯಾಯ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ರಾಘವಾಂಕನ `ಹರಿಶ್ಚಂದ್ರಕಾವ್ಯ'</subject>
 	</entry>
@@ -11704,7 +11700,7 @@
 		<sponsor>ಕೊರ್ಗಿ ಶ್ರೀವೆಂಕಟೇಶ್ವರ ಉಪಾಧ್ಯಾಯ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ರಾಘವಾಂಕನ `ಹರಿಶ್ಚಂದ್ರಕಾವ್ಯ'</subject>
 	</entry>
@@ -11960,7 +11956,7 @@
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೋನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ.ಸಾ.ವಿ.ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಡಾ||ರವಿಂದ್ರ ಗುರುರಾಜ ಕಾಟೋಟಿ ಮತ್ತು ಸಂಗಡಿಗರಿಂದ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಸಪ್ತರಂಗ ಸಂವಾದಿನಿ - ವಾದ್ಯಗೋಷ್ಠಿ</subject>
 	</entry>
@@ -12278,7 +12274,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12288,7 +12284,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12298,7 +12294,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12308,7 +12304,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12318,7 +12314,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12328,7 +12324,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12338,7 +12334,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12348,7 +12344,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12358,7 +12354,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12368,7 +12364,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ವೆಂಕಮ್ಮ ಮತ್ತು ಶ್ರೀಗಣಪಯ್ಯ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಉಪನ್ಯಾಸಮಾಲೆ:ಶತಾವಧಾನಿ ಡಾ||ರಾ.ಗಣೇಶ್</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಹಬ್ಬ ಮತ್ತು ಹರಿದಿನಗಳು (ಸರಣಿ-೨)</subject>
 	</entry>
@@ -12428,7 +12424,7 @@
 		<sponsor>ಶ್ರೀ ಕೆ.ಎಸ್.ನರಸಿಂಹಸ್ವಾಮಿ ಸ್ಮಾರಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರೊ||ಡೊಡ್ಡರಂಗೇಗೌಡ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಕೆ.ಎಸ್.ನರಸಿಂಹಸ್ವಾಮಿ ಅವರ ಒಲುಮೆ ಗೀತೆಗಳು</subject>
 	</entry>
@@ -12448,7 +12444,7 @@
 		<sponsor>ಅಧ್ಯಾತ್ಮಪ್ರಕಾಶ ಕಾರ್ಯಾಲಯ, ಹೊಳೆನರಸೀಪುರ - ಸಂಸ್ಥಾಪಕರಾದ ಪೂಜ್ಯ ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದೇಂದ್ರ ಸರಸ್ವತೀ ಸ್ವಾಮಿಗಳವರ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರವಚನಮಾಲೆ:ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಶಂಕರಭಗವತ್ಪಾದರ `ಶತಶ್ಲೋಕೀ'</subject>
 	</entry>
@@ -12458,7 +12454,7 @@
 		<sponsor>ಅಧ್ಯಾತ್ಮಪ್ರಕಾಶ ಕಾರ್ಯಾಲಯ, ಹೊಳೆನರಸೀಪುರ - ಸಂಸ್ಥಾಪಕರಾದ ಪೂಜ್ಯ ಶ್ರೀ ಶ್ರೀ ಸಚ್ಚಿದಾನಂದೇಂದ್ರ ಸರಸ್ವತೀ ಸ್ವಾಮಿಗಳವರ ಸ್ಮರಣಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪ್ರವಚನಮಾಲೆ:ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
-			<details/>
+			<details />
 		</speaker>
 		<subject>ಶಂಕರಭಗವತ್ಪಾದರ `ಶತಶ್ಲೋಕೀ'</subject>
 	</entry>
@@ -12715,7 +12711,7 @@
 	<entry>	
 		<date>2015-12-29</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
-		<sponsor/>
+		<sponsor />
 		<speaker>
 			<name>ಪ್ರೋ||ಬಿ.ಕೆ.ನಾಗರಾಜರಾವ್</name>
 			<details>Director; COMADEM Intenational, UK</details>
@@ -12788,7 +12784,7 @@
 		<sponsor>ಪಂಡಿತರತ್ನಂ ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ ಶಾಸ್ತ್ರೀ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭಟ್ಟನಾರಾಯಣ ಕವಿಯ `ವೇಣೀಸಂಹಾರ ನಾಟಕ'- ಒಂದು ಪರಿಚಯ</subject>
 	</entry>
@@ -12798,7 +12794,7 @@
 		<sponsor>ಪಂಡಿತರತ್ನಂ ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ ಶಾಸ್ತ್ರೀ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ.ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭಟ್ಟನಾರಾಯಣ ಕವಿಯ `ವೇಣೀಸಂಹಾರ ನಾಟಕ'- ಒಂದು ಪರಿಚಯ</subject>
 	</entry>
@@ -12830,7 +12826,7 @@
 		<sponsor>M/s Bangalore Tool Room ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾವಧಾನ</subject>
 	</entry>
@@ -12870,14 +12866,14 @@
 		<sponsor>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರ ಮಕ್ಕಳ ಸ್ಮರಣೆಯಲ್ಲಿ  ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಡಾ|| ಜಯಪ್ರದಾ ರಾಮಮೂರ್ತಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ - ಕೊಳಲು ವಾದನ ಕಾರ್ಯಕ್ರಮ</subject>
 	</entry>
 	<entry>	
 		<date>2016-1-17</date>
 		<time>ಸಂಜೆ  6.00-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ಪಂಡಿತ್ ಪ್ರಣಮಿತಾರಾಯ್ ಮುಖರ್ಜಿ</name>
 			<details>ಗಾಯನ (ಪಂಡಿತ್ ವಿನಾಯಕ ತೊರವಿ ಅವರ ಶಿಷ್ಯೆ)</details>
@@ -13095,7 +13091,7 @@
 	<entry>	
 		<date>2016-2-9</date>
 		<time>ಸಂಜೆ  6.30-7.45</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
 			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
@@ -13105,7 +13101,7 @@
 	<entry>	
 		<date>2016-2-10</date>
 		<time>ಸಂಜೆ  6.30-7.45</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
 			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
@@ -13115,7 +13111,7 @@
 	<entry>	
 		<date>2016-2-11</date>
 		<time>ಸಂಜೆ  6.30-7.45</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
 			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
@@ -13125,7 +13121,7 @@
 	<entry>	
 		<date>2016-2-12</date>
 		<time>ಸಂಜೆ  6.30-7.45</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
 			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
@@ -13138,7 +13134,7 @@
 		<sponsor>ಶ್ರೀ ಜಿ.ನರಹರಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಅಪರ್ಣಾ ನರಹರಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಸವಪ್ಪಶಾಸ್ತ್ರಿಗಳ  `ದಮಯಂತೀ ಸ್ವಯಂವರ' - ಒಂದು ಪರಿಚಯ</subject>
 	</entry>
@@ -13148,7 +13144,7 @@
 		<sponsor>ಶ್ರೀ ಜಿ.ನರಹರಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಅಪರ್ಣಾ ನರಹರಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಸವಪ್ಪಶಾಸ್ತ್ರಿಗಳ  `ದಮಯಂತೀ ಸ್ವಯಂವರ' - ಒಂದು ಪರಿಚಯ</subject>
 	</entry>
@@ -13206,10 +13202,7 @@
 		<date>2016-2-20</date>
 		<time>ಸಂಜೆ  6.00-8.00</time>
 		<sponsor>ಬಿಜಾಪುರೆ ಹಾರ್ಮೊನಿಯಂ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮ</subject>
 	</entry>
 	<entry>	
@@ -13463,7 +13456,7 @@
 	<entry>	
 		<date>2016-3-14</date>
 		<time>ಸಂಜೆ  6.30-8.00</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Dr. A. Ravindra</name>
 			<details>Former Chief Secretary, Govt. of Karnataka and Chairman, Institute for Social and Economic Change</details>
@@ -13506,7 +13499,7 @@
 		<sponsor>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಸಪಾದ ಜನ್ಮ ಶತೋತ್ಸವ ವರ್ಷ ಸಂದರ್ಭದಲ್ಲಿ ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ನೀಲಾಂಬರಿ ತಂಡದವರಿಂದ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮ</subject>
 	</entry>
@@ -13700,7 +13693,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರತ್ನಾ  ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13710,7 +13703,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರತ್ನಾ  ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13720,7 +13713,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರತ್ನಾ  ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13748,10 +13741,7 @@
 		<date>2016-4-22</date>
 		<time>ಸಂಜೆ  6.30-8.15</time>
 		<sponsor>ಪೂಜ್ಯ ತಂದೆ ಶ್ರೀ ಪತ್ತಿ ಆದಿನಾರಣಯ್ಯ ಮತ್ತು ಪೂಜ್ಯ ತಾಯಿ ಶ್ರೀಮತಿ ರಾಮಲಕ್ಷ್ಮಮ್ಮ ಹಾಗೂ ಶ್ರೀಮತಿ ಪ್ರೇಮಲೀಲಾ ಪತ್ತಿ ಪಾಂಡುರಂಗ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಪತ್ತಿ ಪಾಂಡುರಂಗ ಅವರ ಪ್ರಾಯೋಜನೆಯಲ್ಲಿ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಭಾರತರತ್ನ ಡಾ|| ಎಂ.ಎಸ್. ಸುಬ್ಬುಲಕ್ಷ್ಮೀ ಜನ್ಮ ಶತಾಬ್ದ ಆಚರಣೆ - ಡಾ|| ಎಂ.ಎಸ್. ಸುಬ್ಬುಲಕ್ಷ್ಮೀ  ಸಾಕ್ಷ್ಯಚಿತ್ರ  ಪ್ರದರ್ಶನ</subject>
 	</entry>
 	<entry>	
@@ -13830,7 +13820,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13840,7 +13830,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13850,7 +13840,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13860,7 +13850,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13870,7 +13860,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ - 2)</subject>
 	</entry>
@@ -13930,7 +13920,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ -3)</subject>
 	</entry>
@@ -13940,7 +13930,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ -3)</subject>
 	</entry>
@@ -13950,7 +13940,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾಂತಾ ಗೋಪಾಲ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಬಾಣಭಟ್ಟನ `ಕಾದಂಬರಿ' ರಸಾಸ್ವಾದ (ಸರಣಿ -3)</subject>
 	</entry>
@@ -14000,7 +13990,7 @@
 		<sponsor>ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ ಅವರ 150ನೇ ಜನ್ಮವರ್ಷ ಆಚರಣೆ GOKHALE DAY LECTURE by Adv. Dr. Sunil Gokhale (Greatgrandson of Gopal Krishna Gokhale)</sponsor>
 		<speaker>
 			<name>ವಿದ್ವಾನ್ ಚಂದ್ರಶೇಖರ ಕೆದಿಲಾಯ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ದೇಶಭಕ್ತಿ ಗೀತೆಗಳ ಗಾಯನ</subject>
 	</entry>
@@ -14248,10 +14238,7 @@
 		<date>2016-6-6</date>
 		<time>ಸಂಜೆ  6.30-8.00</time>
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ದತ್ತಿಯ  ಆಶ್ರಯದಲ್ಲಿ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜನ್ಮದಿನೋತ್ಸವ ಕಾರ್ಯಕ್ರಮ</subject>
 	</entry>
 	<entry>	
@@ -14308,30 +14295,21 @@
 		<date>2016-6-13</date>
 		<time>ಸಂಜೆ  6.30-8.00</time>
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ಪ್ರಾಯೋಜಿಸಿರುವ ಕಾರ್ಯಕ್ರಮಗಳು</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಸಪಾದ ಜನ್ಮ ಶತೋತ್ಸವ ವರ್ಷ ಸಂದರ್ಭದಲ್ಲಿ</subject>
 	</entry>
 	<entry>	
 		<date>2016-6-14</date>
 		<time>ಸಂಜೆ  6.30-8.00</time>
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ಪ್ರಾಯೋಜಿಸಿರುವ ಕಾರ್ಯಕ್ರಮಗಳು</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಸಪಾದ ಜನ್ಮ ಶತೋತ್ಸವ ವರ್ಷ ಸಂದರ್ಭದಲ್ಲಿ</subject>
 	</entry>
 	<entry>	
 		<date>2016-6-15</date>
 		<time>ಸಂಜೆ  6.30-8.00</time>
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನ ಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ಪ್ರಾಯೋಜಿಸಿರುವ ಕಾರ್ಯಕ್ರಮಗಳು</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಸಪಾದ ಜನ್ಮ ಶತೋತ್ಸವ ವರ್ಷ ಸಂದರ್ಭದಲ್ಲಿ</subject>
 	</entry>
 	<entry>	
@@ -15612,7 +15590,7 @@
 			<name>Hon'ble Justice M. N. Venkatachaliah (Former Chief Justice of India)</name>
 			<details>G. S. Vishveshwara Memorial Lecture - Talk</details>
 		</speaker>
-		<subject></subject>
+		<subject />
 	</entry>
 	<entry>
 		<date>2016-10-22</date>
@@ -16290,7 +16268,7 @@
 		<sponsor>M/s Bangalore Tool Room ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಅಷ್ಟಾವಧಾನ</subject>
 	</entry>
@@ -16300,7 +16278,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀ ಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ತೀರ್ಥ ಮತ್ತು ಕ್ಷೇತ್ರ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -16310,7 +16288,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀ ಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ತೀರ್ಥ ಮತ್ತು ಕ್ಷೇತ್ರ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -16320,7 +16298,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀ ಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ತೀರ್ಥ ಮತ್ತು ಕ್ಷೇತ್ರ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -16330,7 +16308,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀ ಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ತೀರ್ಥ ಮತ್ತು ಕ್ಷೇತ್ರ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -16512,7 +16490,7 @@
 		<sponsor>ನ್ಯಾಯಮೂರ್ತಿ ಆರ್. ವೆಂಕಟರಾಮಯ್ಯ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>
 	</entry>
@@ -16522,7 +16500,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾರದಾ ‌ಜೋಷಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>
 	</entry>
@@ -16532,7 +16510,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾರದಾ ‌ಜೋಷಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>
 	</entry>
@@ -16542,7 +16520,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾರದಾ ‌ಜೋಷಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>
 	</entry>
@@ -16552,7 +16530,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾರದಾ ‌ಜೋಷಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>
 	</entry>
@@ -16562,7 +16540,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಶಾರದಾ ‌ಜೋಷಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>
 	</entry>
@@ -16572,7 +16550,7 @@
 		<sponsor>ಪ್ರೊ|| ಬಿ. ವೆಂಕಟಕೃಷ್ಣಪ್ಪ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ </sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಪಂಚತಂತ್ರ</subject>
 	</entry>
@@ -16582,7 +16560,7 @@
 		<sponsor>ನ್ಯಾಯಮೂರ್ತಿ ಬಾಳೇಪುರ ಸುಬ್ಬಣ್ಣ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ವಿ. ರಂಗನಾಥರಾವ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಕನ್ನಡಕ್ಕೊಬ್ಬನೇ ಕೈಲಾಸಂ'</subject>
 	</entry>
@@ -16660,7 +16638,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-1)</subject>
 	</entry>
@@ -16670,7 +16648,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-1)</subject>
 	</entry>
@@ -16680,7 +16658,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-1)</subject>
 	</entry>
@@ -16690,7 +16668,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-1)</subject>
 	</entry>
@@ -16700,7 +16678,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-1)</subject>
 	</entry>
@@ -16710,7 +16688,7 @@
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ್ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಸಂಗೀತವಿದ್ಯಾನಿಧಿ ಡಾ|| ವಿದ್ಯಾಭೂಷಣ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಗಾಯನ ಕಾರ್ಯಕ್ರಮ</subject>
 	</entry>
@@ -16768,10 +16746,7 @@
 		<date>2017-2-25</date>
 		<time>ಸಂಜೆ 6.00-8.00</time>
 		<sponsor>ಸಂಗೀತ ಕಲಾ‌ ವೇದಿಕೆ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಪಂಡಿತ್ ಲಿಂಗರಾಜಬುವಾ ಯರಗುಪ್ಪಿ ಮತ್ತು ಪಂಡಿತ್ ರಾಮಪ್ಪ ಹುಗ್ಗಣ್ಣವರ್ ಸ್ಮರಣಾರ್ಥ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
 	<entry>
@@ -16780,7 +16755,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-2)</subject>
 	</entry>
@@ -16790,7 +16765,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-2)</subject>
 	</entry>
@@ -16800,7 +16775,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-2)</subject>
 	</entry>
@@ -16810,7 +16785,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-2)</subject>
 	</entry>
@@ -16820,7 +16795,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-2)</subject>
 	</entry>
@@ -16830,7 +16805,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-2)</subject>
 	</entry>
@@ -16910,7 +16885,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಡಿ. ಎಲ್. ಸರೋಜ ಮತ್ತು ಶ್ರೀ ಡಿ. ಆರ್. ಲಕ್ಷ್ಮೀರಾಮ ಶೆಟ್ಟಿ  ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಹರಿಕಥೆ: ಕುಮಾರಿ ಪ್ರತಿಮಾ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಯಜ್ಞಸಂರಕ್ಷಣೆ</subject>
 	</entry>
@@ -16920,14 +16895,14 @@
 		<sponsor>ಶ್ರೀಮತಿ ಡಿ. ಎಲ್. ಸರೋಜ ಮತ್ತು ಶ್ರೀ ಡಿ. ಆರ್. ಲಕ್ಷ್ಮೀರಾಮ ಶೆಟ್ಟಿ  ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
 		<speaker>
 			<name>ಹರಿಕಥೆ: ಕುಮಾರಿ ಪ್ರತಿಮಾ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ರುಕ್ಮಿಣೀ ಕಲ್ಯಾಣ</subject>
 	</entry>
 	<entry>
 		<date>2017-3-15</date>
 		<time>6.30 p.m.</time>
-		<sponsor></sponsor>
+		<sponsor />
 		<speaker>
 			<name>Professor Abdul Aziz</name>
 			<details>Retd Professor and Head, Economics Unit, ISEC</details>
@@ -16938,10 +16913,7 @@
 		<date>2017-3-16</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
 		<sponsor>Wenzins Technologies, Bangalore ಮತ್ತು ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಉಪನ್ಯಾಸ ಮತ್ತು ಪ್ರಾತ್ಯಕ್ಷಿಕೆ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಜೀವನಶೈಲಿ ಮತ್ತು ಆರೋಗ್ಯ</subject>
 	</entry>
 	<entry>
@@ -16978,7 +16950,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -16988,7 +16960,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -16998,7 +16970,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17008,7 +16980,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17018,7 +16990,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17028,7 +17000,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17070,7 +17042,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ‌ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ವಿ. ರಂಗನಾಥರಾವ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕನ್ನಡ ಸಾಹಿತ್ಯದ ದಿಗ್ಗಜರು</subject>
 	</entry>
@@ -17080,7 +17052,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ‌ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ವಿ. ರಂಗನಾಥರಾವ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕನ್ನಡ ಸಾಹಿತ್ಯದ ದಿಗ್ಗಜರು</subject>
 	</entry>
@@ -17090,7 +17062,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ‌ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ವಿ. ರಂಗನಾಥರಾವ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕನ್ನಡ ಸಾಹಿತ್ಯದ ದಿಗ್ಗಜರು</subject>
 	</entry>
@@ -17120,7 +17092,7 @@
 		<sponsor>ಸಂಗೀತ ಕಲಾ‌ ವೇದಿಕೆ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಯಾದವರಾವ್ ಪಡ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
@@ -17140,7 +17112,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17150,7 +17122,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17160,7 +17132,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17170,7 +17142,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17180,7 +17152,7 @@
 		<sponsor>ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್, ಬೆಂಗಳೂರು, ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17190,7 +17162,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರತ್ನ ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರ (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17200,7 +17172,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರತ್ನ ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರ (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17210,7 +17182,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ರತ್ನ ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
 		<speaker>
 			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ದಶಾವತಾರ (ಸರಣಿ-3)</subject>
 	</entry>
@@ -17220,7 +17192,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ.  ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17230,7 +17202,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17240,7 +17212,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17250,7 +17222,7 @@
 		<sponsor>ಶ್ರೀ ಹೆಚ್. ವಿ. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಅವರ ಕುಟುಂಬದವರು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಭೋಜಪ್ರಬಂಧ (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17378,20 +17350,14 @@
 		<date>2017-5-6</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
 		<sponsor>Wenzins Technologies, Bangalore ಮತ್ತು ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಉಪನ್ಯಾಸ ಮತ್ತು ಪ್ರಾತ್ಯಕ್ಷಿಕೆ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಜೀವನಶೈಲಿ ಮತ್ತು ಆರೋಗ್ಯ</subject>
 	</entry>
 	<entry>
 		<date>2017-5-7</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
 		<sponsor>Wenzins Technologies, Bangalore ಮತ್ತು ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ ಉಪನ್ಯಾಸ ಮತ್ತು ಪ್ರಾತ್ಯಕ್ಷಿಕೆ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಜೀವನಶೈಲಿ ಮತ್ತು ಆರೋಗ್ಯ</subject>
 	</entry>
 	<entry>
@@ -17432,7 +17398,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ‌ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17442,7 +17408,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ‌ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17452,7 +17418,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ‌ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17462,7 +17428,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ‌ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17472,7 +17438,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ‌ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-1)</subject>
 	</entry>
@@ -17572,7 +17538,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17582,7 +17548,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17592,7 +17558,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17602,7 +17568,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17612,7 +17578,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಇಂದಿರಾ ವೆಂಕಟೇಶ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಗಾಯತ್ರಿ ಇಂದಾವರ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಶ್ರೀಹರ್ಷನ ನಾಟಕಗಳು (ಸರಣಿ-2)</subject>
 	</entry>
@@ -17620,10 +17586,7 @@
 		<date>2017-6-6</date>
 		<time>ಸಂಜೆ 6.30-8.00</time>
 		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
-		<speaker>
-			<name></name>
-			<details></details>
-		</speaker>
+		<speaker />
 		<subject>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜನ್ಮದಿನೋತ್ಸವ ಕಾರ್ಯಕ್ರಮ</subject>
 	</entry>
 	<entry>
@@ -17632,7 +17595,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>
 	</entry>
@@ -17642,7 +17605,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>
 	</entry>
@@ -17652,7 +17615,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>
 	</entry>
@@ -17662,7 +17625,7 @@
 		<sponsor>ಶ್ರೀಮತಿ ಸುಮ ಮತ್ತು ಶ್ರೀಸುಧಾಕರ ಜೋಯಿಸ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
 		<speaker>
 			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಕ್ಷೇಮೇಂದ್ರನ ಕೃತಿಪರಿಚಯ</subject>
 	</entry>
@@ -17722,7 +17685,7 @@
 		<sponsor>ಸಂಗೀತ ಕಲಾ‌ ವೇದಿಕೆ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
 		<speaker>
 			<name>ಪಂಡಿತ್ ಶಿವಾನಂದಸ್ವಾಮಿ</name>
-			<details></details>
+			<details />
 		</speaker>
 		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
 	</entry>
@@ -17825,5 +17788,1642 @@
 			<details>Associate Director, CDAC, Bangalore</details>
 		</speaker>
 		<subject>ಭಗವದ್ರಾಮಾನುಜರ ವೈಭವ</subject>
+	</entry>
+	<entry>
+		<date>2018-1-1</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಲಕ್ಷ್ಮೀಬಾಯಿ ಮತ್ತು  ಶ್ರೀಗೋವಿಂದರಾವ್ ನರೇಂದ್ರ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-2</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಲಲಿತಮ್ಮ ಮತ್ತು ಶ್ರೀ ಬಿ. ಎನ್. ವಿಶ್ವನಾಥ್ ಹಾಗೂ ಶ್ರೀ ಬಿ. ವಿ. ನಟರಾಜ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-3</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಲಲಿತಮ್ಮ ಮತ್ತು ಶ್ರೀ ಬಿ. ಎನ್. ವಿಶ್ವನಾಥ್ ಹಾಗೂ ಶ್ರೀ ಬಿ. ವಿ. ನಟರಾಜ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-4</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಪ್ರೇಮಲೀಲಾ ಪತ್ತಿ ಪಾಂಡುರಂಗ  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-5</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಪ್ರೇಮಲೀಲಾ ಪತ್ತಿ ಪಾಂಡುರಂಗ  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-6</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ಸಂಗೀತ ವಿದುಷಿ ವಲ್ಲಭಂ ಕಲ್ಯಾನಸುಂದರಂ ಜ್ಞಾಪಕಾರ್ಥ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>`ಶಂಕರಾಭರಣಂ' ತಂಡದವರಿಂದ</name>
+			<details />
+		</speaker>
+		<subject>ಮಯ್ಯೂರಮ್ ಶ್ರೀ ವಿಶ್ವನಾಥಶಾಸ್ತ್ರಿ ಅವರ 125ನೇ ಜನ್ಮವರ್ಷ ಆಚರಣೆ ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಗಾಯನ ಕಾರ್ಯಕ್ರಮ</subject>
+	</entry>
+	<entry>
+		<date>2018-1-7</date>
+		<time>ಸಂಜೆ 5.00-8.00</time>
+		<sponsor>M/s Bangalore Tool Room ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಅಷ್ಟಾವಧಾನ'</subject>
+	</entry>
+	<entry>
+		<date>2018-1-8</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-9)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-9</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-9)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-10</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-9)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-11</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-9)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-12</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-9)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-15</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
+		<speaker>
+			<name>ಪ್ರೊ ಎಂ. ಎಂ. ಗುಪ್ತ</name>
+			<details>ನಿವೃತ್ತ ಅರ್ಥಶಾಸ್ತ್ರ ಪ್ರಾಧ್ಯಾಪಕರು</details>
+		</speaker>
+		<subject>`ಪರ್ಯಾಯ ಅರ್ಥವ್ಯವಸ್ಥೆ'</subject>
+	</entry>
+	<entry>
+		<date>2018-1-16</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪ್ರಾತ್ಯಕ್ಷಿಕೆ ಮತ್ತು ಉಪನ್ಯಾಸ: ಶ್ರೀ ಎಸ್. ವಿಶ್ವೇಶ್ವರಯ್ಯ</name>
+			<details>ಸಂಸ್ಥಾಪಕ ಮುಖ್ಯಸ್ಥರು `ವಿ ಕೇರ್' Training Academy, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ರಸ್ತೆ ಸುರಕ್ಷತೆ ಮತ್ತು ಸಾಮಾಜಿಕ ಜಾಗೃತಿ'</subject>
+	</entry>
+	<entry>
+		<date>2018-1-17</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪ್ರಾತ್ಯಕ್ಷಿಕೆ ಮತ್ತು ಉಪನ್ಯಾಸ: ಶ್ರೀ ಎಸ್. ವಿಶ್ವೇಶ್ವರಯ್ಯ</name>
+			<details>ಸಂಸ್ಥಾಪಕ ಮುಖ್ಯಸ್ಥರು `ವಿ ಕೇರ್' Training Academy, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ರಸ್ತೆ ಸುರಕ್ಷತೆ ಮತ್ತು ಸಾಮಾಜಿಕ ಜಾಗೃತಿ'</subject>
+	</entry>
+	<entry>
+		<date>2018-1-18</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪ್ರಾತ್ಯಕ್ಷಿಕೆ ಮತ್ತು ಉಪನ್ಯಾಸ: ಶ್ರೀ ಎಸ್. ವಿಶ್ವೇಶ್ವರಯ್ಯ</name>
+			<details>ಸಂಸ್ಥಾಪಕ ಮುಖ್ಯಸ್ಥರು `ವಿ ಕೇರ್' Training Academy, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಜೀವನದಲ್ಲಿ ಸುರಕ್ಷತೆ'</subject>
+	</entry>
+	<entry>
+		<date>2018-1-19</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ದಿ|| ಶ್ರೀ ಎನ್. ವೆಂಕಟರಾಮು ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಸುಶೀಲಾ‌ ವೆಂಕಟರಾಮು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ರಮಣಿ ಎಸ್. ಶಂಕರ್</name>
+			<details>ಗಾಯನ</details>
+		</speaker>
+		<speaker>
+			<name>ಶ್ರೀಮತಿ ರಮ್ಯಾ</name>
+			<details>ವ್ಯಾಖ್ಯಾನ</details>
+		</speaker>
+		<subject>`ಭದ್ರಾಚಲ ರಾಮದಾಸರು' ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಗಾಯನ ರೂಪಕ ಕಾರ್ಯಕ್ರಮ</subject>
+	</entry>
+	<entry>
+		<date>2018-1-20</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-21</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-22</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-23</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-24</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-25</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-26</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-27</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-28</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-29</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-30</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-1-31</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ||ಆರ್. ನಾರಾಯಣಮೂರ್ತಿ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ  ಶ್ರೀಮತಿ ಕೆ. ಜಯಂತಿ ಮೂರ್ತಿ ಮತ್ತು ಅವರ ಮಕ್ಕಳು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ಯಾರತ್ನಾಕರ, ವಿದ್ಯಾವಾಚಸ್ಪತಿ ಬನ್ನಂಜೆ ಗೋವಿಂದಾಚಾರ್ಯ</name>
+			<details>ಖ್ಯಾತ ವೇದಾಂತ ಚಿಂತಕರು</details>
+		</speaker>
+		<subject>`ಐತರೇಯೋಪನಿಷತ್' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-1</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ನ್ಯಾಯಮೂರ್ತಿ ಆರ್. ವೆಂಕಟರಾಮಯ್ಯ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-10)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-2</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಶಾರದಾ ಜೋಷಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-10)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-3</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಶಾರದಾ ಜೋಷಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-10)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-4</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಪ್ರೊ|| ಬಿ. ವೆಂಕಟಕೃಷ್ಣಪ್ಪ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-10)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-5</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ನ್ಯಾಯಮೂರ್ತಿ ಬಾಳೇಪುರ ಸುಬ್ಬಣ್ಣ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-10)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-6</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-7</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-8</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-9</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-10</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಎಂ. ಎಲ್. ನರಸಿಂಹಮೂರ್ತಿ</name>
+			<details>ಕುಲಪತಿಗಳು, ತಿರುಪತಿ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ</details>
+		</speaker>
+		<subject>`ಕಠೋಪನಿಷತ್' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-12</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಕನ್ನಡ ವಿಜ್ಞಾನ ಪರಿಷತ್ ರಜತೋತ್ಸವ ಸ್ಮರಣಾರ್ಥ ಪ್ರಾಯೋಜಿತ ಡಾ|| ಬಿ. ಜಿ. ಎಲ್. ಸ್ವಾಮಿ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಕೆ. ಎಸ್. ನವೀನ್</name>
+			<details>ಪರಿಸರ ವಿಜ್ಞಾನಿಗಳು</details>
+		</speaker>
+		<subject>`ನದಿಗಳು, ನದಿಜೋಡಣೆ ಹಾಗೂ ಪುನರುತ್ಥಾನ'</subject>
+	</entry>
+	<entry>
+		<date>2018-2-13</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಡಾ|| ಬಿ. ವಿ. ಸುಬ್ಬರಾಯಪ್ಪ ದತ್ತಿ ಉಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಡಾ|| ಎನ್. ಎಸ್. ಲೀಲಾ</name>
+			<details>ನಿವೃತ್ತ ಪ್ರಾಣಿಶಾಸ್ತ್ರ ಪ್ರಾಧ್ಯಾಪಕರು</details>
+		</speaker>
+		<subject>`ರೂಪದರ್ಶಿಗಳೊ?', `ಪ್ರಯೋಗದರ್ಶಿಗಳೊ?'</subject>
+	</entry>
+	<entry>
+		<date>2018-2-16</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು: ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-17</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು: ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-18</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು: ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-19</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು: ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-20</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು: ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-2-23</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಡಾ|| ಹೆಚ್. ಎಸ್. ವೆಂಕಟೇಶಮೂರ್ತಿ</name>
+			<details>ಖ್ಯಾತ ಕನ್ನಡ ಕವಿಗಳು</details>
+		</speaker>
+		<subject>`ಮಾಸ್ತಿ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪುರುಷ ಸಂಬಂಧ'</subject>
+	</entry>
+	<entry>
+		<date>2018-2-24</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
+		<speaker>
+			<name>ಪೂಜ್ಯ ಸ್ವಾಮಿ ಬ್ರಹ್ಮಾನಂದಜೀ</name>
+			<details>ಅಧ್ಯಕ್ಷರು, ಚಿನ್ಮಯ ಮಿಷನ್</details>
+		</speaker>
+		<subject>ಪ್ರವಚನ</subject>
+	</entry>
+	<entry>
+		<date>2018-2-25</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details>ಕನ್ನಡ ವ್ಯಾಖ್ಯಾನ</details>
+		</speaker>
+		<speaker>
+			<name>ಶ್ರೀ ಬಿ. ಎನ್. ಶಶಿಕಿರಣ</name>
+			<details>ನಿರ್ದೇಶನ</details>
+		</speaker>
+		<subject>ಶೂದ್ರಕ್ನ `ಮೃಚ್ಛಕಟಿಕ' ನಾಟಕದ ಮೂಲದ ವಾಚಿಕ ಪ್ರಸ್ತುತಿ `ಪದ್ಯಪಾನ' ವೇದಿಕೆಯಿಂದ</subject>
+	</entry>
+	<entry>
+		<date>2018-2-26</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>ಸದಾಶಿವಬ್ರಹ್ಮೇಂದ್ರರ `ಮನೋನಿಯಮನಂ'</subject>
+	</entry>
+	<entry>
+		<date>2018-2-27</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>ಸದಾಶಿವಬ್ರಹ್ಮೇಂದ್ರರ `ಮನೋನಿಯಮನಂ'</subject>
+	</entry>
+	<entry>
+		<date>2018-2-28</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>ಸದಾಶಿವಬ್ರಹ್ಮೇಂದ್ರರ `ಮನೋನಿಯಮನಂ'</subject>
+	</entry>
+	<entry>
+		<date>2018-3-1</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-11)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-2</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-11)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-3</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-11)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-4</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-11)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-5</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-11)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-6</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ವಿದ್ಯಾಗಣಪತಿ ಪ್ರಕಾಶನ ದತ್ತಿ,  ಶ್ರೀ ಶ್ರೀ ಬ್ರಹ್ಮಚೈತನ್ಯ ಗುರುಮಹಾರಾಜರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಎಂ. ಎಸ್. ಶ್ರೀಕಂಠಯ್ಯ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶ್ ಭಟ್ಟ ಹೋಬಳಿ </name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-7</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ವಿದ್ಯಾಗಣಪತಿ ಪ್ರಕಾಶನ ದತ್ತಿ,  ಶ್ರೀ ಶ್ರೀ ಬ್ರಹ್ಮಚೈತನ್ಯ ಗುರುಮಹಾರಾಜರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಎಂ. ಎಸ್. ಶ್ರೀಕಂಠಯ್ಯ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶ್ ಭಟ್ಟ ಹೋಬಳಿ </name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-8</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ವಿದ್ಯಾಗಣಪತಿ ಪ್ರಕಾಶನ ದತ್ತಿ,  ಶ್ರೀ ಶ್ರೀ ಬ್ರಹ್ಮಚೈತನ್ಯ ಗುರುಮಹಾರಾಜರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಎಂ. ಎಸ್. ಶ್ರೀಕಂಠಯ್ಯ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶ್ ಭಟ್ಟ ಹೋಬಳಿ </name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-9</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ವಿದ್ಯಾಗಣಪತಿ ಪ್ರಕಾಶನ ದತ್ತಿ,  ಶ್ರೀ ಶ್ರೀ ಬ್ರಹ್ಮಚೈತನ್ಯ ಗುರುಮಹಾರಾಜರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಎಂ. ಎಸ್. ಶ್ರೀಕಂಠಯ್ಯ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶ್ ಭಟ್ಟ ಹೋಬಳಿ </name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-10</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ವಿದ್ಯಾಗಣಪತಿ ಪ್ರಕಾಶನ ದತ್ತಿ,  ಶ್ರೀ ಶ್ರೀ ಬ್ರಹ್ಮಚೈತನ್ಯ ಗುರುಮಹಾರಾಜರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀ ಎಂ. ಎಸ್. ಶ್ರೀಕಂಠಯ್ಯ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶ್ ಭಟ್ಟ ಹೋಬಳಿ </name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-11</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ವರಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ಗುಂಡಯ್ಯಶೆಟ್ಟಿ ದತ್ತಿ ಮತ್ತು ಶ್ರೀಮತಿ ಡಿ. ಎಲ್. ಸರೋಜ ಮತ್ತು ಶ್ರೀ ಡಿ. ಆರ್. ಲಕ್ಷ್ಮೀರಾಮಶೆಟ್ಟಿ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ </sponsor>
+		<speaker>
+			<name>ಡಾ|| ಗುರುರಾಜ ಕರಜಗಿ</name>
+			<details>chairman, Academy for Creative Teaching, Bangalore</details>
+		</speaker>
+		<subject>`ಬೆಳಕಿನ ದೀಪಗಳು' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-12</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ವರಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ಗುಂಡಯ್ಯಶೆಟ್ಟಿ ದತ್ತಿ ಮತ್ತು ಶ್ರೀಮತಿ ಡಿ. ಎಲ್. ಸರೋಜ ಮತ್ತು ಶ್ರೀ ಡಿ. ಆರ್. ಲಕ್ಷ್ಮೀರಾಮಶೆಟ್ಟಿ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ </sponsor>
+		<speaker>
+			<name>ಡಾ|| ಗುರುರಾಜ ಕರಜಗಿ</name>
+			<details>chairman, Academy for Creative Teaching, Bangalore</details>
+		</speaker>
+		<subject>`ಬೆಳಕಿನ ದೀಪಗಳು' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-13</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ವರಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ಗುಂಡಯ್ಯಶೆಟ್ಟಿ ದತ್ತಿ ಮತ್ತು ಶ್ರೀಮತಿ ಡಿ. ಎಲ್. ಸರೋಜ ಮತ್ತು ಶ್ರೀ ಡಿ. ಆರ್. ಲಕ್ಷ್ಮೀರಾಮಶೆಟ್ಟಿ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ </sponsor>
+		<speaker>
+			<name>ಡಾ|| ಗುರುರಾಜ ಕರಜಗಿ</name>
+			<details>chairman, Academy for Creative Teaching, Bangalore</details>
+		</speaker>
+		<subject>`ಬೆಳಕಿನ ದೀಪಗಳು' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-14</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ವರಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ಗುಂಡಯ್ಯಶೆಟ್ಟಿ ದತ್ತಿ ಮತ್ತು ಶ್ರೀಮತಿ ಡಿ. ಎಲ್. ಸರೋಜ ಮತ್ತು ಶ್ರೀ ಡಿ. ಆರ್. ಲಕ್ಷ್ಮೀರಾಮಶೆಟ್ಟಿ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ </sponsor>
+		<speaker>
+			<name>ಡಾ|| ಗುರುರಾಜ ಕರಜಗಿ</name>
+			<details>chairman, Academy for Creative Teaching, Bangalore</details>
+		</speaker>
+		<subject>`ಬೆಳಕಿನ ದೀಪಗಳು' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-15</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ವರಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ಗುಂಡಯ್ಯಶೆಟ್ಟಿ ದತ್ತಿ ಮತ್ತು ಶ್ರೀಮತಿ ಡಿ. ಎಲ್. ಸರೋಜ ಮತ್ತು ಶ್ರೀ ಡಿ. ಆರ್. ಲಕ್ಷ್ಮೀರಾಮಶೆಟ್ಟಿ ದತ್ತಿಗಳ ಆಶ್ರಯದಲ್ಲಿ </sponsor>
+		<speaker>
+			<name>ಡಾ|| ಗುರುರಾಜ ಕರಜಗಿ</name>
+			<details>chairman, Academy for Creative Teaching, Bangalore</details>
+		</speaker>
+		<subject>`ಬೆಳಕಿನ ದೀಪಗಳು' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-16</date>
+		<time>6.30</time>
+		<sponsor />
+		<speaker>
+			<name>Sri N. Nityananda</name>
+			<details>Director FKCCI and Chairman Banking and Finance Committe of FKCCI</details>
+		</speaker>
+		<subject>UNION BUDGET-2018-19</subject>
+	</entry>
+	<entry>
+		<date>2018-3-17</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಡಿ. ವಿ. ಜಿ. ಅವರ 131ನೇ ಜನ್ಮದಿನೋತ್ಸವ ಆಚರಣೆ ಮತ್ತು ಶ್ರೀ ಜಡೇಮಾದಪ್ಪ ಪುಟ್ಟನಂಜಮ್ಮ ಪುಟ್ಟನಂಜಮ್ಮ ದತ್ತಿ ಉಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್.  ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಡಿ. ವಿ. ಜಿ.' ಅವರ `ಜೀವನಧರ್ಮಯೋಗ'ದ ವೈಶಿಷ್ಟ್ಯ</subject>
+	</entry>
+	<entry>
+		<date>2018-3-19</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಕುಮಾರಿ ಪ್ರತಿಮಾ</name>
+			<details />
+		</speaker>
+		<subject>ಹರಿಕಥೆ  `ಭಕ್ತ ಸುಧಾಮ'</subject>
+	</entry>
+	<entry>
+		<date>2018-3-20</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಕುಮಾರಿ ಪ್ರತಿಮಾ</name>
+			<details />
+		</speaker>
+		<subject>ಹರಿಕಥೆ  `ಮುದ್ರಿಕಾಪ್ರದಾನ'</subject>
+	</entry>
+	<entry>
+		<date>2018-3-21</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಕುಮಾರಿ ಪ್ರತಿಮಾ</name>
+			<details />
+		</speaker>
+		<subject>ಹರಿಕಥೆ  `ಶ್ರೀನಿವಾಸಕಲ್ಯಾಣ'</subject>
+	</entry>
+	<entry>
+		<date>2018-3-23</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಮಾಸ್ತಿ ಅಧ್ಯಯನ ಪೀಠ ಮತ್ತು ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಡಾ|| ನರಹಳ್ಳಿ ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ</name>
+			<details>ನಿವೃತ್ತ ಕನ್ನಡ ಪ್ರಾಧ್ಯಾಪಕರು ಮತ್ತು ಖ್ಯಾತ ವಿಮರ್ಶಕರು</details>
+		</speaker>
+		<subject>`ಮಾಸ್ತಿಯವರ ಕಥನ ವಿನ್ಯಾಸ'</subject>
+	</entry>
+	<entry>
+		<date>2018-3-24</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
+		<speaker />
+		<subject>ಸಾಕ್ಷ್ಯಚಿತ್ರ ಪ್ರದರ್ಶನ `ಡಿ. ವಿ. ಗುಂಡಪ್ಪ' ಮತ್ತು `ವಿ. ಸೀತಾರಾಮಯ್ಯ'</subject>
+	</entry>
+	<entry>
+		<date>2018-3-26</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀ ಡಿ. ಕೆ. ಸತ್ಯನಾರಾಯಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ವೈ. ವಿ. ಗುಂಡೂರಾವ್</name>
+			<details>ವಾಗ್ಮಿಗಳು ಮತ್ತು ಮಾನವ ಸಂಪನ್ಮೂಲ ತರಬೇತುದಾರರು</details>
+		</speaker>
+		<subject>`ನಕ್ಕಂವಾ ಗೆದ್ದಾಂವಾ' - ಬೇಂದ್ರೆ ಅವರ ಹಾಸ್ಯಪ್ರಜ್ಞೆ</subject>
+	</entry>
+	<entry>
+		<date>2018-3-27</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ  ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-28</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-29</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-30</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-3-31</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ  ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-12)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-1</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ದಿ|| ಶ್ರೀ ಎನ್. ವೆಂಕಟರಾಮು ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಸುಶೀಲಾ ವೆಂಕಟರಾಮು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣೆ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-2</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ದಿ|| ಶ್ರೀ ಎನ್. ವೆಂಕಟರಾಮು ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಸುಶೀಲಾ ವೆಂಕಟರಾಮು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣೆ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-3</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ದಿ|| ಶ್ರೀ ಎನ್. ವೆಂಕಟರಾಮು ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಸುಶೀಲಾ ವೆಂಕಟರಾಮು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣೆ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-4</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ದಿ|| ಶ್ರೀ ಎನ್. ವೆಂಕಟರಾಮು ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಸುಶೀಲಾ ವೆಂಕಟರಾಮು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣೆ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-5</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ದಿ|| ಶ್ರೀ ಎನ್. ವೆಂಕಟರಾಮು ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಸುಶೀಲಾ ವೆಂಕಟರಾಮು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣೆ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-6</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ದಿ|| ಶ್ರೀ ಎನ್. ವೆಂಕಟರಾಮು ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಸುಶೀಲಾ ವೆಂಕಟರಾಮು ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣೆ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-7</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ನಿನಾದ್ ಸಂಗೀತ್ ಸಾಗರ್ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪಂಡಿತ್ ಪೂರ್ವಿ ನಿಮ್ಗಾಂವ್ಕರ್</name>
+			<details>ಗಾಯನ</details>
+		</speaker>
+		<speaker>
+			<name>ಪಂಡಿತ್ ಅಶ್ವಿನ್ ವಾಲಾವಾಲ್ಕರ್</name>
+			<details>ಹಾರ್ಮೋನಿಯಂ</details>
+		</speaker>
+		<speaker>
+			<name>ಪಂಡಿತ್ ಆದರ್ಶ ಶೆಣೈ</name>
+			<details>ತಬಲ</details>
+		</speaker>
+		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
+	</entry>
+	<entry>
+		<date>2018-4-9</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಕನ್ನಡ ವಿಜ್ಞಾನ ಪರಿಷತ್ ದತ್ತಿ ಉಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಡಾ|| ನಾ. ಸೋಮೇಶ್ವರ</name>
+			<details>ಖ್ಯಾತ ವೈದ್ಯ ವಿಜ್ಞಾನಿಗಳು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ನಮ್ಮ ಆಹಾರ - ಮರುಅನ್ವೇಷಣೆ'</subject>
+	</entry>
+	<entry>
+		<date>2018-4-10</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀ ಪಿ. ಎಸ್. ರಾಘವನ್ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಬಿ. ಎಸ್. ಶಶಿಕಿರಣ್</name>
+			<details />
+		</speaker>
+		<subject>An appreciation of Kalidasa's `Meghadoota'</subject>
+	</entry>
+	<entry>
+		<date>2018-4-11</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀ ಪಿ. ಎಸ್. ರಾಘವನ್ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಬಿ. ಎಸ್. ಶಶಿಕಿರಣ್</name>
+			<details />
+		</speaker>
+		<subject>An appreciation of Kalidasa's `Meghadoota'</subject>
+	</entry>
+	<entry>
+		<date>2018-4-12</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀ ಪಿ. ಎಸ್. ರಾಘವನ್ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಬಿ. ಎಸ್. ಶಶಿಕಿರಣ್</name>
+			<details />
+		</speaker>
+		<subject>An appreciation of Kalidasa's `Meghadoota'</subject>
+	</entry>
+	<entry>
+		<date>2018-4-13</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ರತ್ನ ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸರಥಿ</name>
+			<details />
+		</speaker>
+		<subject>`ದಶಾವತಾರ' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-14</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ರತ್ನ ಶ್ರೀನಿವಾಸನ್ ಸ್ಮರಣೋಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸರಥಿ</name>
+			<details />
+		</speaker>
+		<subject>`ದಶಾವತಾರ' (ಸರಣಿ-4)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-15</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ'(ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-16</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ'(ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-17</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ'(ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-18</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ'(ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-19</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ'(ಸರಣಿ-13)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-20</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಡಾ|| ಶಾರದಾಚೈತ್ರ ಪ್ರಾಯೋಜಿಸಿರುವ ಶ್ರೀಮತಿ ಕಮಲಾಕ್ಷಿಶರ್ಮಾ ಮತ್ತು ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details>ನಿರ್ದೇಶನ ಮತ್ತು ನಿರೂಪಣೆ</details>
+		</speaker>
+		<subject>ಪ್ರೌಢೋಪನ್ಯಾಸಮಾಲೆ</subject>
+	</entry>
+	<entry>
+		<date>2018-4-21</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಡಾ|| ಶಾರದಾಚೈತ್ರ ಪ್ರಾಯೋಜಿಸಿರುವ ಶ್ರೀಮತಿ ಕಮಲಾಕ್ಷಿಶರ್ಮಾ ಮತ್ತು ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details>ನಿರ್ದೇಶನ ಮತ್ತು ನಿರೂಪಣೆ</details>
+		</speaker>
+		<subject>ಪ್ರೌಢೋಪನ್ಯಾಸಮಾಲೆ</subject>
+	</entry>
+	<entry>
+		<date>2018-4-22</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಡಾ|| ಶಾರದಾಚೈತ್ರ ಪ್ರಾಯೋಜಿಸಿರುವ ಶ್ರೀಮತಿ ಕಮಲಾಕ್ಷಿಶರ್ಮಾ ಮತ್ತು ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details>ನಿರ್ದೇಶನ ಮತ್ತು ನಿರೂಪಣೆ</details>
+		</speaker>
+		<subject>ಪ್ರೌಢೋಪನ್ಯಾಸಮಾಲೆ</subject>
+	</entry>
+	<entry>
+		<date>2018-4-23</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸಿ. ಕೆ. ನಾಗರಾಜರಾವ್ ದತ್ತಿ ಉಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ವಿ. ರಂಗನಾಥರಾವ್</name>
+			<details />
+		</speaker>
+		<subject>`ಅನಕೃ' ಅವರ ಬದುಕು ಮತ್ತು ಬರಹ</subject>
+	</entry>
+	<entry>
+		<date>2018-4-24</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಟಿ. ಎ. ಪಿ. ಶೆಣೈ</name>
+			<details />
+		</speaker>
+		<subject>`ಸ್ವಾಮಿ ರಾಮತೀರ್ಥರ ಬದುಕು ಮತ್ತು ಕೊಡುಗೆ'</subject>
+	</entry>
+	<entry>
+		<date>2018-4-25</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ನಿರ್ಮಲಾ ಜ್ಞಾಪಕೋಪನ್ಯಾಸ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಟಿ. ಎ. ಪಿ. ಶೆಣೈ</name>
+			<details />
+		</speaker>
+		<subject>`ಸ್ವಾಮಿ ರಾಮತೀರ್ಥರ ಬದುಕು ಮತ್ತು ಕೊಡುಗೆ'</subject>
+	</entry>
+	<entry>
+		<date>2018-4-26</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-27</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-28</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-29</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-4-30</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-14)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-1</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಛಾಯಾ ಧ್ರುವನಾರಾಯಣ ದತ್ತಿ ಕಾರ್ಯಕ್ರಮ</sponsor>
+		<speaker>
+			<name>ಪಂಡಿತ ಜಯತೀರ್ಥಾಚಾರ್ಯ ಮಳಗಿ</name>
+			<details>ನಿವೃತ ಸಂಸ್ಕೃತ ಪ್ರಾಧ್ಯಾಪಕರು, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಧಾರವಾಡ</details>
+		</speaker>
+		<subject>``ಚೆನ್ನಬಸವಣ್ಣ'ನವರ ವಚನಗಳ ಸಂದೇಶ</subject>
+	</entry>
+	<entry>
+		<date>2018-5-2</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ನರಸಮ್ಮ ಮತ್ತು ಧಾರವಾಡ ಶ್ರೀ ಕೃಷ್ಣರಾವ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪಂಡಿತ ಜಯತೀರ್ಥಾಚಾರ್ಯ ಮಳಗಿ</name>
+			<details>ನಿವೃತ್ತ ಸಂಸ್ಕೃತ ಪ್ರಾಧ್ಯಾಪಕರು, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಧಾರವಾಡ</details>
+		</speaker>
+		<subject>`ಪುರಂದರದಾಸರ ಬದುಕು-ಬರಹಗಳ ಸಂದೇಶ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-3</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ನರಸಮ್ಮ ಮತ್ತು ಧಾರವಾಡ ಶ್ರೀ ಕೃಷ್ಣರಾವ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪಂಡಿತ ಜಯತೀರ್ಥಾಚಾರ್ಯ ಮಳಗಿ</name>
+			<details>ನಿವೃತ್ತ ಸಂಸ್ಕೃತ ಪ್ರಾಧ್ಯಾಪಕರು, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಧಾರವಾಡ</details>
+		</speaker>
+		<subject>`ಪುರಂದರದಾಸರ ಬದುಕು-ಬರಹಗಳ ಸಂದೇಶ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-4</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ನರಸಮ್ಮ ಮತ್ತು ಧಾರವಾಡ ಶ್ರೀ ಕೃಷ್ಣರಾವ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪಂಡಿತ ಜಯತೀರ್ಥಾಚಾರ್ಯ ಮಳಗಿ</name>
+			<details>ನಿವೃತ್ತ ಸಂಸ್ಕೃತ ಪ್ರಾಧ್ಯಾಪಕರು, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಧಾರವಾಡ</details>
+		</speaker>
+		<subject>`ಪುರಂದರದಾಸರ ಬದುಕು-ಬರಹಗಳ ಸಂದೇಶ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-5</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ನರಸಮ್ಮ ಮತ್ತು ಧಾರವಾಡ ಶ್ರೀ ಕೃಷ್ಣರಾವ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಪಂಡಿತ ಜಯತೀರ್ಥಾಚಾರ್ಯ ಮಳಗಿ</name>
+			<details>ನಿವೃತ್ತ ಸಂಸ್ಕೃತ ಪ್ರಾಧ್ಯಾಪಕರು, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಧಾರವಾಡ</details>
+		</speaker>
+		<subject>`ಪುರಂದರದಾಸರ ಬದುಕು-ಬರಹಗಳ ಸಂದೇಶ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-7</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ದಿ|| ಬೆಳಗೆರೆ ಕೃಷ್ಣಶಾಸ್ತ್ರೀ ಜನ್ಮಶತಮಾನೋತ್ಸವ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ವಿ. ರಂಗನಾಥರಾವ್</name>
+			<details />
+		</speaker>
+		<subject>`ಬೆಳಗೆರೆ ಕೃಷ್ಣಶಾಸ್ತ್ರೀಯವರ ಬರಹಗಳು - ಒಂದು ಅವಲೋಕನ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-8</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್  ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀಮತಿ ಸೌಮ್ಯ ಗೌತಮ್</name>
+			<details />
+		</speaker>
+		<speaker>
+			<name>ಶ್ರೀ ಗೌತಮ್</name>
+			<details />
+		</speaker>
+		<subject>ಸರ್ಕಾರಿ ಶಾಳೆಯ ಮಕ್ಕಳಿಗೆ ಗಣಕಯಂತ್ರದ ಮೂಲಕ ಶಿಕ್ಷಣ</subject>
+	</entry>
+	<entry>
+		<date>2018-5-9</date>
+		<time>6.30</time>
+		<sponsor />
+		<speaker>
+			<name>Hon'ble Justice N. Kumar</name>
+			<details>Former Judge High Court of Karnataka</details>
+		</speaker>
+		<subject>GOKHALE BIRTHDAY LECTURE</subject>
+	</entry>
+	<entry>
+		<date>2018-5-11</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
+			<details />
+		</speaker>
+		<subject>`ದಶಾವತಾರ' (ಸರಣಿ-5)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-12</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಸಾರ್ವತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಶ್ರೀನಿಧಿ ಕೆ. ಪಾರ್ಥಸಾರಥಿ</name>
+			<details />
+		</speaker>
+		<subject>`ದಶಾವತಾರ' (ಸರಣಿ-5)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-13</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ಸಾರ್ವಾತ್ರಿಕ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದುಷಿ ಕೃತ್ತಿಕಾ</name>
+			<details />
+		</speaker>
+		<subject>ಕರ್ನಾಟಕ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಗಾಯನ</subject>
+	</entry>
+	<entry>
+		<date>2018-5-14</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-15</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-16</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-17</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-18</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀ ಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-1)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-21</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ನಾಗರಾಜ್ ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
+		<speaker>
+			<name>ಪರಮಪೂಜ್ಯ ಸ್ವಾಮಿ ವೀರೇಶಾನಂದಜೀ ಮಹಾರಾಜ್</name>
+			<details>ಅದ್ಯಕ್ಷರು, ಶ್ರೀರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ಆಶ್ರಮ, ತುಮಕೂರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀರಾಮಕೃಷ್ಣ ಉಪದೇಶಾಮೃತ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-22</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ನಾಗರಾಜ್ ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
+		<speaker>
+			<name>ಪರಮಪೂಜ್ಯ ಸ್ವಾಮಿ ವೀರೇಶಾನಂದಜೀ ಮಹಾರಾಜ್</name>
+			<details>ಅದ್ಯಕ್ಷರು, ಶ್ರೀರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ಆಶ್ರಮ, ತುಮಕೂರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀರಾಮಕೃಷ್ಣ ಉಪದೇಶಾಮೃತ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-23</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ನಾಗರಾಜ್ ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
+		<speaker>
+			<name>ಪರಮಪೂಜ್ಯ ಸ್ವಾಮಿ ವೀರೇಶಾನಂದಜೀ ಮಹಾರಾಜ್</name>
+			<details>ಅದ್ಯಕ್ಷರು, ಶ್ರೀರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ಆಶ್ರಮ, ತುಮಕೂರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀರಾಮಕೃಷ್ಣ ಉಪದೇಶಾಮೃತ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-24</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ನಾಗರಾಜ್ ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
+		<speaker>
+			<name>ಪರಮಪೂಜ್ಯ ಸ್ವಾಮಿ ವೀರೇಶಾನಂದಜೀ ಮಹಾರಾಜ್</name>
+			<details>ಅದ್ಯಕ್ಷರು, ಶ್ರೀರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ಆಶ್ರಮ, ತುಮಕೂರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀರಾಮಕೃಷ್ಣ ಉಪದೇಶಾಮೃತ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-25</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ದೇವತಾ ಮುನಿಲಕ್ಷ್ಮಮ್ಮ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ರಾಮಯ್ಯಶೆಟ್ಟಿ  ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ದೇವತಾ ನಾಗರಾಜ್ ಪ್ರಾಯೋಜಿಸಿರುವ </sponsor>
+		<speaker>
+			<name>ಪರಮಪೂಜ್ಯ ಸ್ವಾಮಿ ವೀರೇಶಾನಂದಜೀ ಮಹಾರಾಜ್</name>
+			<details>ಅದ್ಯಕ್ಷರು, ಶ್ರೀರಾಮಕೃಷ್ಣ-ವಿವೇಕಾನಂದ ಆಶ್ರಮ, ತುಮಕೂರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀರಾಮಕೃಷ್ಣ ಉಪದೇಶಾಮೃತ'</subject>
+	</entry>
+	<entry>
+		<date>2018-5-28</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋಂ. ಎನ್. ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ಮತ್ತು ಶ್ರೀ ನಾಗರಾಜ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-29</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋಂ. ಎನ್. ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ಮತ್ತು ಶ್ರೀ ನಾಗರಾಜ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-30</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋಂ. ಎನ್. ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ಮತ್ತು ಶ್ರೀ ನಾಗರಾಜ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-5-31</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋಂ. ಎನ್. ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ಮತ್ತು ಶ್ರೀ ನಾಗರಾಜ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-1</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀಮತಿ ಭಾರತೀ ಕೋಂ. ಎನ್. ಪಾರ್ಥಸಾರಥಿ ಸೆಟ್ಟಿ ಮತ್ತು ಶ್ರೀ ನಾಗರಾಜ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-2</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-3</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-4</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-5</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಗಿರಿಜಮ್ಮ ಮತ್ತು ಶ್ರೀಪಂಚಪ್ಪ ಅವರ ಮಗ ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀಮಲೇಬೆನ್ನೂರ್ ನಾಗೇಶ್ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ|| ಎಸ್. ರಂಗನಾಥ್</name>
+			<details>ಸಂಸ್ಕೃತ ವಿಭಾಗ ಮುಖ್ಯಸ್ಥರು, ಎನ್. ಎಮ್. ಕೆ. ಆರ್. ವಿ. ಕಾಲೇಜು, ಬೆಂಗಳೂರು</details>
+		</speaker>
+		<subject>`ಯೋಗವಾಸಿಷ್ಠ' (ಸರಣಿ-2)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-6</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಜೀವನಕಾರ್ಯಾಲಯ ಟ್ರಸ್ಟ್ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಡಾ|| ಎಂ. ರಾಮಚಂದ್ರ</name>
+			<details />
+		</speaker>
+		<subject>19ನೇ ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಸ್ಮಾರಕ ಜನ್ಮದಿನೋಪನ್ಯಾಸ</subject>
+	</entry>
+	<entry>
+		<date>2018-6-7</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
+		<speaker>
+			<name>ಶ್ರೀ ವೈ. ವಿ. ಗುಂಡೂರಾವ್</name>
+			<details>ವಾಗ್ಮಿಗಳು ಮತ್ತು ಮಾನವ ಸಂಪನ್ಮೂಲ ತರಬೇತುದಾರರು</details>
+		</speaker>
+		<subject>`ನನ್ನ ಭಾರತ - ನನ್ನ ತೀರ್ಥಕ್ಷೇತ್ರ'</subject>
+	</entry>
+	<entry>
+		<date>2018-6-8</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor />
+		<speaker>
+			<name>ಶ್ರೀ ವೈ. ವಿ. ಗುಂಡೂರಾವ್</name>
+			<details>ವಾಗ್ಮಿಗಳು ಮತ್ತು ಮಾನವ ಸಂಪನ್ಮೂಲ ತರಬೇತುದಾರರು</details>
+		</speaker>
+		<subject>`ಮಾನವಸಂಬಂಧಗಳ ನಿರ್ವಹಣೆ'</subject>
+	</entry>
+	<entry>
+		<date>2018-6-11</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಎಂ. ಎನ್. ಮಂದಾಕಿನಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-12</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಎಂ. ಎನ್. ಮಂದಾಕಿನಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-13</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಎಂ. ಎನ್. ಮಂದಾಕಿನಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-14</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಎಂ. ಎನ್. ಮಂದಾಕಿನಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-15</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಎಂ. ಎನ್. ಮಂದಾಕಿನಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-16</date>
+		<time>ಸಂಜೆ 6.30-7.45</time>
+		<sponsor>ಶ್ರೀ ಎಂ. ನಾಗಭೂಷಣರಾವ್ ಅವರ ಸ್ಮರಣೆಯಲ್ಲಿ ಶ್ರೀಮತಿ ಎಂ. ಎನ್. ಮಂದಾಕಿನಿ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ವಿದ್ವಾನ್ ಗಣೇಶಭಟ್ಟ ಹೋಬಳಿ</name>
+			<details>ಸಂಸ್ಕೃತ ಉಪನ್ಯಾಸಕರು; ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಲಲಿತಾಸಹಸ್ರನಾಮ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-18</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ವನಜಾಕ್ಷಮ್ಮ ಮತ್ತು ಶ್ರೀ ಆರ್. ಕೆ. ನಾಗಭೂಷಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>`ಹರಿದಾಸ' ವಿದ್ವಾನ್' ನೀವಣೆ ಗಣೇಶ್ಭಟ್</name>
+			<details>ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಕೃಷ್ಣಲೀಲಾವೈಭವಂ'</subject>
+	</entry>
+	<entry>
+		<date>2018-6-19</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ವನಜಾಕ್ಷಮ್ಮ ಮತ್ತು ಶ್ರೀ ಆರ್. ಕೆ. ನಾಗಭೂಷಣ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>`ಹರಿದಾಸ' ವಿದ್ವಾನ್' ನೀವಣೆ ಗಣೇಶ್ಭಟ್</name>
+			<details>ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಕೃಷ್ಣಲೀಲಾವೈಭವಂ'</subject>
+	</entry>
+	<entry>
+		<date>2018-6-20</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಆಲಂಪಲ್ಲಿ ಶ್ರೀಮತಿ ಶಾರದಾಂಬ ಮತ್ತು ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಶೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಹರಿದಾಸ' ವಿದ್ವಾನ್' ನೀವಣೆ ಗಣೇಶ್ಭಟ್</name>
+			<details>ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಕೃಷ್ಣಲೀಲಾವೈಭವಂ'</subject>
+	</entry>
+	<entry>
+		<date>2018-6-21</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಆಲಂಪಲ್ಲಿ ಶ್ರೀಮತಿ ಶಾರದಾಂಬ ಮತ್ತು ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಶೆಟ್ಟಿ ದತ್ತಿಯ ಆಶ್ರಯದಲ್ಲಿ</sponsor>
+		<speaker>
+			<name>ಹರಿದಾಸ' ವಿದ್ವಾನ್' ನೀವಣೆ ಗಣೇಶ್ಭಟ್</name>
+			<details>ಅಧ್ಯಾತ್ಮ ಚಿಂತಕರು; ಪ್ರವಚನಕಾರರು</details>
+		</speaker>
+		<subject>`ಶ್ರೀಕೃಷ್ಣಲೀಲಾವೈಭವಂ'</subject>
+	</entry>
+	<entry>
+		<date>2018-6-23</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ನಿನಾದ್ ಸಂಗೀತ್ ಸಾಗರ್ ಫೌಂಡೇಶನ್ ಮತ್ತು ಗೋ. ಸಾ. ವಿ. ಸಂಸ್ಥೆಯ ಸಂಯುಕ್ತ ಆಶ್ರಯದಲ್ಲಿ </sponsor>
+		<speaker>
+			<name>ಶ್ರೀ ಷಡ್ಜ ಗೋಡ್ಕಿಂಡಿ</name>
+			<details>ಕೊಳಲು ವಾದನ</details>
+		</speaker>
+		<speaker>
+			<name>ಶ್ರೀ ರೂಪಕ್ ಕಲೂಕರ್</name>
+			<details>ತಬಲ</details>
+		</speaker>
+		<speaker>
+			<name>ಕು||ಹಿರಣ್ಮಯಿ</name>
+			<details>ಗಾಯನ</details>
+		</speaker>
+		<speaker>
+			<name>ಶ್ರೀಗೌರವ್ ಗಡಿಯಾರ್</name>
+			<details>ಹಾರ್ಮೋನಿಯಂ</details>
+		</speaker>
+		<speaker>
+			<name>ಶ್ರೀಅಭಯ್ ಕುಲಕರ್ಣಿ</name>
+			<details>ತಬಲ</details>
+		</speaker>
+		<subject>ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ</subject>
+	</entry>
+	<entry>
+		<date>2018-6-24</date>
+		<time>ಸಂಜೆ 6.00-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ಗಣೇಶ್</name>
+			<details>ಕನ್ನಡ ವ್ಯಾಖ್ಯಾನ</details>
+		</speaker>
+		<speaker>
+			<name>ಶ್ರೀ ಬಿ. ಎನ್. ಶಶಿಕಿರಣ</name>
+			<details>ನಿರ್ದೇಶನ</details>
+		</speaker>
+		<subject>ವಿಶಾಖದತ್ತನ `ಮುದ್ರಾರಾಕ್ಷಸ' ನಾಟಕದ ಮೂಲದ ವಾಚಿಕ ಪ್ರಸ್ತುತಿ `ಪದ್ಯಪಾನ' ವೇದಿಕೆಯಿಂದ</subject>
+	</entry>
+	<entry>
+		<date>2018-6-25</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-26</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-27</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-28</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-29</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-15)</subject>
+	</entry>
+	<entry>
+		<date>2018-6-30</date>
+		<time>ಸಂಜೆ 6.30-8.00</time>
+		<sponsor>ಶ್ರೀಮತಿ ಮತ್ತು ಶ್ರೀ ಪ್ರಸನ್ನ ಬಸವಾಪಟ್ಟಣ ಪ್ರಾಯೋಜಿಸಿರುವ</sponsor>
+		<speaker>
+			<name>ಶತಾವಧಾನಿ ಡಾ|| ರಾ. ಗಣೇಶ್</name>
+			<details />
+		</speaker>
+		<subject>`ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ' (ಸರಣಿ-15)</subject>
 	</entry>
 </gipa_progs_list>
