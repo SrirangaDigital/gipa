@@ -318,3 +318,11 @@ html, body{
 	border-left: 1px solid #FFFFFF;
 	border-right: 1px solid #FFFFFF;
 }
+.developedby{
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.developedby-logo{
+	height: 20px; 
+	vertical-align: middle;
+}

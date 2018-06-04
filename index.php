@@ -21,7 +21,7 @@ if(!(isset($_SESSION['next_date'])))
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Gokhale Institute of Public Affairs</title>
 <link href="php/style/reset.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="php/style/indexstyle.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="php/style/indexstyle.css?v=2.0" media="screen" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" href="php/images/favicon.ico">
 </head>
 
@@ -165,23 +165,7 @@ if($num_rows4)
 		</div>
 	</div>
 	</div>
-	<div class="footer">
-		<div class="foot_box">
-			<div class="fleft">
-				&copy;2011 GIPA, Bangalore. All Rights Reserved
-			</div>
-			<div class="fright">
-				<ul>
-					<li><a href="#">Terms of Use</a></li>
-					<li>|</li>
-					<li><a href="#">Privacy Policy</a></li>	
-					<li>|</li>
-					<li><a href="php/cus.php">Contact Us</a></li>
-					<li>&nbsp;</li>
-				</ul>
-			</div>
-		</div>
-	</div>
+    <?php include("php/footer.php");?>
 </div>
 
 </body>
