@@ -131,25 +131,7 @@ if($num_rows4)
 		</div>
 	</div>
 	</div>
-	<div class="footer">
-		<div class="foot_box">
-			<div class="fleft">
-				&copy;2011 GIPA, Bangalore. All Rights Reserved
-			</div>
-			<div class="fright">
-				<ul>
-					<li><a href="#">Terms of Use</a></li>
-					<li>|</li>
-					<li><a href="#">Privacy Policy</a></li>	
-					<li>|</li>
-					<li><a href="cus.php">Contact Us</a></li>
-					<li>|</li>
-					<li><a href="sitemap.php">Sitemap</a></li>
-					<li>&nbsp;</li>
-				</ul>
-			</div>
-		</div>
-	</div>
+    <?php include("footer.php");?>
 </div>
 </body>
 </html>

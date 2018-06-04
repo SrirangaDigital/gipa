@@ -9,7 +9,6 @@ session_start();
 <title>Gokhale Institute of Public Affairs</title>
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="style/style.css" media="screen" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="images/favicon.ico">
 </head>
 
 <body>
@@ -22,62 +21,56 @@ session_start();
 	<div class="mainpage">
 	<div class="left">
 			<div class="submenu">
-			<!--	<span class="subheader1">Donors &amp; Memorial Lectures</span> -->
+				<div class="subheader"></div>
+				<div class="subtabs">
+					<ul>
+						<li class="active"><a class="active" href="volumes.php">Volumes</a></li>
+						<li><a href="articles.php?letter= ">Articles</a></li>
+						<li><a href="authors.php?letter= ">Authors</a></li>
+						<li><a href="notes.php?letter= ">Notes</a></li>
+						<li><a href="search.php">Search</a></li>
+						
+					</ul>
+				</div>
 			</div>
 			<div class="topictitle">
-				Donors &amp; Memorial Lectures
+				Volumes
 			</div>
 			<div class="data">
-				<div class="limitdata">
-						<ul>
-							<table class="dontbl1" style="border-bottom:1px solid #fff;">
-								<th><?php $var = $_GET['var']; echo("$var") ?></th>
-							</table>
-							<table class="dontbl">
-								<tr>
-								<th>Date</th>
-								<th>Programme</th>
-								<th>Subject</th>
-								<th>Lecturer/Speaker</th>
-								</tr>
+				<div class="limitdata1">
+						<table class="voltbl">
 							<?php
-								include("connect.php");
-
-								$query = "select * from programme where sponsers like '%$var%'";
-								$result = $mysqli->query($query);
-								$num_rows = $result->num_rows;
-
-								if($num_rows)
-								{
+									$cnt = 0;
+									$zz = rand(1,945);
+									include("connect.php");
+									$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+									$rs = mysql_select_db($database,$db) or die("No Database");
+									$query = "select * from newkagga";
+									$result = mysql_query($query);
+									$num_rows = mysql_num_rows($result);
+									echo ("<tr>\n\t\t\t\t\t\t\t");
+								//	echo ("<td><a href=\"#\">1952</a></td>");
+									
 									for($i=1;$i<=$num_rows;$i++)
-									{
-										$row = $result->fetch_assoc();
-										$prog = $row['programmes'];
-										$date = $row['date'];
-										$artists = $row['artists'];
-										$subject = $row['subject'];
-								
+									{	
+										$cnt= $cnt+1;
+										$row=mysql_fetch_assoc($result);
+										$num = $row['num'];
+										$poem = $row['kagga'];
+										echo ("<td>$num-->$poem</td>\n\t\t\t\t\t\t\t</tr><tr>");
 										
-												echo("<tr>
-														<td>$date</td>
-														<td>$prog</td>
-														<td>$subject</td>
-														<td>$artists</td>
-													</tr>");
 									}
-								}
 							?>
-							</table>
-						</ul>
-				</div>		
-			</div>
-			<div class="kagga1">
+						</table>
+				</div>
+				<div class="kagga1">
 					<div class="kagga2">
 						<?php
 							include("getkagga.php");
 						?>
 					</div>
 				</div>
+			</div>
 	</div>
 	<div class="right">
 		<div class="gokale">
@@ -89,15 +82,15 @@ session_start();
 				<li><a href="background.php">Background</li></a>
 				<li><a href="activity.php">Activities</li></a>
 				<?php echo "<li><a href=\"prog.php#d".$_SESSION['next_date']."\">Programmes</a></li>" ?>
-				<li><a href="journals.php">Monthly Journals</a></li>
+				<li><a class="active" href="journals.php">Monthly Journals</a></li>
 				<li><a href="malike.php">Lectures</a></li>
 				<li><a href="gal.php">Gallery</a></li>
-				<li><a class="active" href="donors.php">Sponsored Events</a></li>
+				<li><a href="donors.php">Sponsored Events</a></li>
 				<li><a href="cus.php">Contact Us</a></li>
 			</ul>		
 		</div>
 	</div>
-	</div> <!-- end of mainpage -->
+	</div>
     <?php include("footer.php");?>
 </div>
 </body>

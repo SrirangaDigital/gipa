@@ -9,7 +9,6 @@ session_start();
 <title>Gokhale Institute of Public Affairs</title>
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="style/style.css" media="screen" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="images/favicon.ico">
 </head>
 
 <body>
@@ -21,52 +20,34 @@ session_start();
 	</div>
 	<div class="mainpage">
 	<div class="left">
-			<div class="submenu">
-				<div class="subtabs">
-				<ul>
-					<li class="active"><a class="active" href="malike.php">ಉಪನ್ಯಾಸಮಾಲಿಕೆ</a></li>
-					<li><a href="audio.php">ಉಪನ್ಯಾಸಕರು</a></li>
-				</ul>
-				</div>
-			</div>
-			<div class="topictitlek">
-				<?php
-					$var=$_GET['var'];
-					echo "$var";
-				?>
-			</div>
+			<div class="submenu"></div>
+			<div class="topictitle">ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗಗಳು</div>
 			<div class="data">
-				<div class="limitdata">
-					<ul>
+				<div class="limitdata1">
+					<table class="allkaggatbl">
+					<tr>
 					<?php
+						$count = 0;
 						include("connect.php");
-						$var=$_GET['var'];
-						
-						$query = "SELECT * FROM track WHERE artist like '%$var%' order by title";
-						$result = $mysqli->query($query);
-						$num_rows = $result->num_rows;
-						if($num_rows)
+						$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+						$rs = mysql_select_db($database,$db) or die("No Database");
+						$query = "select * from newkagga";
+						$result = mysql_query($query);
+						$num_rows = mysql_num_rows($result);
+						for($i=1;$i<=$num_rows;$i++)
 						{
-							for($i=1;$i<=$num_rows;$i++)
-							{
-								$row = $result->fetch_assoc();
-								$title=$row['title'];
-								$artist=$row['artist'];
-								$dur = $row['duration'];
-								echo ("<li><span class=\"titspank\"><a href=\"#\">$title</a></span> <span class=\"durspan\"> </span><br /></li>\n\t\t\t\t\t");
-							}
+							$row=mysql_fetch_assoc($result);
+							$num = $row['num'];
+							$poem = $row['kagga'];
+							echo("<td><table class=\"kaggainner\"><tr><td>$poem &nbsp;&nbsp;-&nbsp;&nbsp;$num</td></tr></table></td>\n");
+							$count = $count + 1;
+							if($count%2==0){ echo("</tr><tr>");}
 						}
 					?>
-					</ul>
+					</tr>
+					</table>
 				</div>
 			</div>
-			<div class="kagga1">
-					<div class="kagga2">
-						<?php
-							include("getkagga.php");
-						?>
-					</div>
-				</div>
 	</div>
 	<div class="right">
 		<div class="gokale">
@@ -77,9 +58,9 @@ session_start();
 				<li><a href="../index.php">Home</a></li>
 				<li><a href="background.php">Background</li></a>
 				<li><a href="activity.php">Activities</li></a>
-				<?php echo "<li><a href=\"prog.php#d".$_SESSION['next_date']."\">Programmes</a></li>" ?>
+				<li><a class="active" href="prog.php">Programmes</a></li>
 				<li><a href="journals.php">Monthly Journals</a></li>
-				<li><a class="active" href="malike.php">Lectures</a></li>
+				<li><a href="malike.php">Lectures</a></li>
 				<li><a href="gal.php">Gallery</a></li>
 				<li><a href="donors.php">Sponsored Events</a></li>
 				<li><a href="cus.php">Contact Us</a></li>
