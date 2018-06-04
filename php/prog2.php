@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Gokhale Institute of Public Affairs</title>
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="style/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="style/style.css?v=2.0" media="screen" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
