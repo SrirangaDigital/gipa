@@ -145,7 +145,9 @@ if($num_rows4)
 				<li><a href="php/activity.php">Activities</a></li>
 				<?php echo "<li><a href=\"php/prog.php#d".$_SESSION['next_date']."\">Programmes</a></li>" ?>
 				<li><a href="php/journals.php">Monthly Journals</a></li>
+<!--
 				<li><a href="php/malike.php">Lectures</a></li>
+-->
 				<li><a href="php/gal.php">Gallery</a></li>
 				<li><a href="php/donors.php">Sponsored Events</a></li>
 				<li><a href="php/cus.php">Contact Us</a></li>
