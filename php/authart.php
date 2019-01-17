@@ -97,6 +97,7 @@ session_start();
 -->
 				<li><a href="gal.php">Gallery</a></li>
 				<li><a href="donors.php">Sponsored Events</a></li>
+				<li><a href="ebooks.php">E-Books</a></li>
 				<li><a href="cus.php">Contact Us</a></li>
 			</ul>
 		</div>
