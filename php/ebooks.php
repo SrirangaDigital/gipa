@@ -22,10 +22,10 @@ session_start();
 	<div class="mainpage">
 	<div class="left">
 			<div class="submenu"></div>
-			<div class="topictitle">Complete Works of DVG—E-Books</div>
+			<div class="topictitle">Complete Works of DVG — E-Books</div>
 			<div class="data">
 				<div class="limitdata">
-				<p>Devanahalli Venkataramanaiah Gundappa (17 March 1887 – 7 October 1975), popularly known as DVG, was a Kannada writer and philosopher. He has about 10,000 written printed pages to his credit which include poetry, biography, philosophy, literary criticism, children's literature, political commentaries, reminiscences of his great contemporary personalities, religion, translations (both Sanskrit and English), plays, philosophical notes and autobiographical works.<br /><br /></p>
+				<p>Devanahalli Venkataramanaiah Gundappa (17 March 1887 – 7 October 1975), popularly known as DVG, was a Kannada writer and philosopher. His writings include poetry, biography, philosophy, literary criticism, children's literature, political commentaries, reminiscences of his great contemporary personalities, religion, translations (both Sanskrit and English), plays, philosophical notes and autobiographical works.<br /><br /></p>
 						<ul>
 							<li><a href="https://play.google.com/store/books/details?id=4kZxDwAAQBAJ" target="_blank">ಜೀವನ ಸೌಂದರ್ಯ ಮತ್ತು ಸಾಹಿತ್ಯ</a></li>
 							<li><a href="https://play.google.com/store/books/details?id=FkdxDwAAQBAJ" target="_blank">ಸಾಹಿತ್ಯ ಶಕ್ತಿ</a></li>
