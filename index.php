@@ -45,7 +45,7 @@ if(!(isset($_SESSION['next_date'])))
 						<span class="bld_color">
                             <span class="bld"><a href="php/gipa_pic.php">Click Here</a></span>
                             to download the series of talks on “The Foundations of Indian Culture” delivered by
-                             <span class="bld">Shatavadhani Dr. R. Ganesh.</span> However,  for the benefit of those who are not able to follow Kannada, a series of talks in six parts, by <span class="bld">Shatavadhani Dr. R. Ganesh</span> on <span class="bld">“The Foundations of Indian Culture”</span> was organized at GIPA in August-September 2011 (20th, 21st, 27th, 28th August and 3rd and 4th September).<br />
+                             <span class="bld">Shatavadhani Dr. R. Ganesh</span>, organized at GIPA in August-September 2011 (20th, 21st, 27th, 28th August and 3rd and 4th September).<br />
                         </span>
 <!--
 						<span class="bld_color">
@@ -150,6 +150,7 @@ if($num_rows4)
 -->
 				<li><a href="php/gal.php">Gallery</a></li>
 				<li><a href="php/donors.php">Sponsored Events</a></li>
+				<li><a href="php/ebooks.php">E-Books</a></li>
 				<li><a href="php/cus.php">Contact Us</a></li>
 			</ul>		
 		</div>
