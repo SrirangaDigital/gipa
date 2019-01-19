@@ -326,3 +326,21 @@ html, body{
 	height: 20px; 
 	vertical-align: middle;
 }
+div.newswithborder{
+	width: 70%;
+	border: 1px solid #5D4C00;
+	border-radius: 15px;
+	text-align: center;
+	margin: 10px auto 10px auto;
+	padding: 5px;	
+}
+.flash-news{
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	color: #5D4C00;
+}
+img.playbooksicon{
+	vertical-align: middle
+}
