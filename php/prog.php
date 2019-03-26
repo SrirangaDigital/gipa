@@ -31,7 +31,7 @@ session_start();
 	<div class="mainpage">
 	<div class="left">
 		<div class="submenu"></div>
-		<div class="topictitle">Programmes from January 2012 to December 2018<br />Venue : ಡಿ.ವಿ.ಜಿ. ಸಭಾಂಗಣ</div>
+		<div class="topictitle">Programmes from January 2019 to June 2019<br />Venue : ಡಿ.ವಿ.ಜಿ. ಸಭಾಂಗಣ</div>
 		<table class="prgtbl1" style="margin:0em 0em 0em 2.60em">
 			<tr>
 				<th style ="-moz-border-radius: 9px 0px 0px 0px;-webkit-border-radius: 9px 0px 0px 0px;border-radius: 9px 0px 0px 0px;width: 20%;text-align:center;">Date and Time</th>
