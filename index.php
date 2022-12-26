@@ -137,7 +137,7 @@ if($num_rows4)
 			<div class="newswithborder">
 				<p class="flash-news">ಡಿ.ವಿ. ಗುಂಡಪ್ಪರವರ ಎಲ್ಲ ಪುಸ್ತಕಗಳು ಇ-ಬುಕ್ಸ್ ಆಗಿ ಗೂಗಲ್ ಪ್ಲೇ ಬುಕ್ಸ್‌ನಲ್ಲಿ ಲಭ್ಯವಿದೆ.</p>
 				<p class="flash-news">All Kannada books of D.V. Gundappa are available as e-Books on<br /> Google Play Books.<br /><br /></p>
-				<p class="flash-news"><img class="playbooksicon" src="php/images/google-play-books.png" alt="Google Play Books Logo" title="Google Play Books"/> Link: <a class="bld_color" href="http://sriranga.digital/dvg" target="_blank">sriranga.digital/dvg</a></p>
+				<p class="flash-news"><img class="playbooksicon" src="php/images/google-play-books.png" alt="Google Play Books Logo" title="Google Play Books"/> Link: <a class="bld_color" href="https://srirangadigital.com/moreworks" target="_blank">srirangadigital.com</a></p>
 			</div>	
 			<div class="databottom">
 				<div class="kagga">
