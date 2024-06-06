@@ -5,6 +5,15 @@ session_start();
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134339425-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-134339425-1');
+	</script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Gokhale Institute of Public Affairs</title>
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
@@ -22,7 +31,7 @@ session_start();
 	<div class="mainpage">
 	<div class="left">
 		<div class="submenu"></div>
-		<div class="topictitle">Programmes from January 2012 to December 2018<br />Venue : ಡಿ.ವಿ.ಜಿ. ಸಭಾಂಗಣ</div>
+		<div class="topictitle">Programmes from January 2019 to June 2019<br />Venue : ಡಿ.ವಿ.ಜಿ. ಸಭಾಂಗಣ</div>
 		<table class="prgtbl1" style="margin:0em 0em 0em 2.60em">
 			<tr>
 				<th style ="-moz-border-radius: 9px 0px 0px 0px;-webkit-border-radius: 9px 0px 0px 0px;border-radius: 9px 0px 0px 0px;width: 20%;text-align:center;">Date and Time</th>

@@ -1,5 +1,6 @@
 #!/bin/sh
 
+
 host="localhost"
 db="igipa"
 usr="root"
