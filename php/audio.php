@@ -5,15 +5,6 @@ session_start();
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134339425-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-134339425-1');
-	</script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Gokhale Institute of Public Affairs</title>
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
@@ -44,17 +35,16 @@ session_start();
 					<ul>
 					<?php
 						include("connect.php");
-						
-						$query = "select * from artist order by artistname";
+						$query = "SELECT * FROM artist ORDER BY artistname";
 						$result = $mysqli->query($query);
 						$num_rows = $result->num_rows;
-
+						
 						if($num_rows)
 						{
 							for($i=1;$i<=$num_rows;$i++)
 							{
 								$row=$result->fetch_assoc();
-								$arname=$row['artistname'];
+								$arname=$row['artistname'];							
 								echo ("<li><span class=\"auspank\"><a href=\"artistart.php?var=$arname\">$arname</a></span></li>");
 							}
 						}
